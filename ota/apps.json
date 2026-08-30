@@ -1,0 +1,17 @@
+{
+  "updatedAt": "2026-08-31",
+  "storeVersion": "1.0.0",
+  "apps": [
+    {
+      "id": "spotify",
+      "name": "Spotify Music Xe Hơi",
+      "packageName": "com.spotify.music",
+      "category": "Giải Trí",
+      "description": "Kho nhạc trực tuyến hàng triệu bài hát chất lượng cao cho ô tô.",
+      "version": "v8.9.18",
+      "sizeMb": "42 MB",
+      "iconEmoji": "🎵",
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/untagged-22a0826888c2f83baf53/Spotify_+Music+and+Podcasts_9.1.48.1663_APKPure.xapk"
+    }
+  ]
+}
