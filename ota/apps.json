@@ -4,7 +4,7 @@
   "apps": [
     {
       "id": "spotify",
-      "name": "Spotify Music Xe Hơi",
+      "name": "Spotify Music",
       "packageName": "com.spotify.music",
       "category": "Giải Trí",
       "description": "Kho nhạc trực tuyến hàng triệu bài hát chất lượng cao cho ô tô.",
