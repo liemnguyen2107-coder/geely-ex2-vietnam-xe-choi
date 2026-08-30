@@ -1,0 +1,9 @@
+{
+  "versionCode": 2,
+  "versionName": "v1.2.0",
+  "releaseDate": "31/08/2026",
+  "sizeMb": "28 MB",
+  "changelog": "• Tích hợp mở Cốp Trước (Frunk) và Cốp Sau (Trunk)\n• Thêm công tắc Bật/Tắt tự động mở hé kính khi mở cửa\n• Nâng cấp giao diện siêu xe điện 3 phân vùng HMI cao cấp\n• Đổi nút điều hòa thành dấu − và + to rõ nét",
+  "downloadUrl": "LINK_FILE_APK_SE_LAY_O_BUOC_3",
+  "isMandatory": false
+}
