@@ -1,15 +1,37 @@
 {
   "updatedAt": "2026-08-31",
-  "storeVersion": "1.0.0",
+  "storeVersion": "1.2.0",
   "apps": [
+    {
+      "id": "vietmap",
+      "name": "Vietmap Live Pro",
+      "packageName": "vn.vietmap.live",
+      "category": "Dẫn Đường",
+      "description": "Dẫn đường chuyên dụng ô tô, cảnh báo tốc độ, camera phạt nguội và giao thông trực tiếp tại Việt Nam.",
+      "version": "v3.3.4",
+      "sizeMb": "187 MB",
+      "iconEmoji": "🗺️",
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Vietmap_Live_v3.3.4.apk"
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube Morphe",
+      "packageName": "app.morphe.android.youtube",
+      "category": "Giải Trí",
+      "description": "Xem YouTube màn hình ô tô chuẩn nét, chặn 100% quảng cáo và hỗ trợ chạy ngầm/tắt màn hình.",
+      "version": "v21.07.243",
+      "sizeMb": "197 MB",
+      "iconEmoji": "▶️",
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/YouTube_Morphe_Ext_v21.07.243.apk"
+    },
     {
       "id": "spotify",
       "name": "Spotify Music",
       "packageName": "com.spotify.music",
       "category": "Giải Trí",
       "description": "Kho nhạc trực tuyến hàng triệu bài hát chất lượng cao cho ô tô.",
-      "version": "v8.9.18",
-      "sizeMb": "42 MB",
+      "version": "v9.0.24",
+      "sizeMb": "74 MB",
       "iconEmoji": "🎵",
       "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Spotify_+Music+and+Podcasts_9.0.24.601_APKPure.apk"
     }
