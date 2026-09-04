@@ -1,9 +1,9 @@
 {
-  "versionCode": 4,
-  "versionName": "v1.0.3",
+  "versionCode": 5,
+  "versionName": "v1.0.4",
   "releaseDate": "04/09/2026",
   "sizeMb": "14 MB",
-  "changelog": "• Sửa cài XAPK trên Android 9 (pm install-create session)\n• Nếu chữ ký khác bản cũ: gỡ rồi cài Vietmap mới\n• Kho ứng dụng hiện lỗi cài cụ thể",
-  "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.3/EX2VNControl_v1.0.3.apk",
+  "changelog": "• Vietmap Live 3.4.0 dạng APK (không dùng XAPK)\n• Cài bằng pm install; nếu khác chữ ký thì gỡ rồi cài lại cùng package",
+  "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.4/EX2VNControl_v1.0.4.apk",
   "isMandatory": false
 }
