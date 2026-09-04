@@ -1,9 +1,9 @@
 {
-  "versionCode": 5,
-  "versionName": "v1.0.4",
+  "versionCode": 6,
+  "versionName": "v1.0.5",
   "releaseDate": "04/09/2026",
   "sizeMb": "14 MB",
-  "changelog": "• Vietmap Live 3.4.0 dạng APK (không dùng XAPK)\n• Cài bằng pm install; nếu khác chữ ký thì gỡ rồi cài lại cùng package",
-  "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.4/EX2VNControl_v1.0.4.apk",
+  "changelog": "• Dòng trạng thái OTA dưới tên phiên bản (cập nhật mới / bản mới nhất)",
+  "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.5/EX2VNControl_v1.0.5.apk",
   "isMandatory": false
 }
