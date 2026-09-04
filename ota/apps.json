@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-08-31",
+  "updatedAt": "2026-09-04",
   "storeVersion": "1.0.0",
   "apps": [
     {
       "id": "vietmap",
-      "name": "Vietmap Live Pro",
+      "name": "Vietmap Live",
       "packageName": "vn.vietmap.live",
       "category": "Dẫn Đường",
       "description": "Bản đồ dẫn đường & cảnh báo tốc độ, phạt nguội, camera giao thông Việt Nam.",
-      "version": "v2.5.8",
-      "sizeMb": "48 MB",
+      "version": "v3.3.4",
+      "sizeMb": "187 MB",
       "iconEmoji": "🗺️",
-      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/vietmap_live.apk"
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Vietmap_Live_v3.3.4.apk"
     },
     {
       "id": "gmaps",
@@ -25,15 +25,15 @@
       "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/maps_automotive.apk"
     },
     {
-      "id": "fermata",
-      "name": "YouTube & TV Fermata Auto",
-      "packageName": "me.aap.fermata",
+      "id": "youtube",
+      "name": "YouTube Morphe",
+      "packageName": "app.morphe.android.youtube",
       "category": "Giải Trí",
-      "description": "Xem YouTube không quảng cáo, TV truyền hình VTV và xem video MP4 từ USB.",
-      "version": "v1.9.9",
-      "sizeMb": "32 MB",
+      "description": "YouTube cho màn hình xe, xem video không quảng cáo.",
+      "version": "v21.07.243",
+      "sizeMb": "197 MB",
       "iconEmoji": "📺",
-      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/fermata_auto.apk"
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/YouTube_Morphe_Ext_v21.07.243.apk"
     },
     {
       "id": "spotify",
