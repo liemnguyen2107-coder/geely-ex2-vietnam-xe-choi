@@ -1,17 +1,17 @@
 {
   "updatedAt": "2026-09-04",
-  "storeVersion": "1.0.0",
+  "storeVersion": "1.0.2",
   "apps": [
     {
       "id": "vietmap",
       "name": "Vietmap Live",
       "packageName": "vn.vietmap.live",
       "category": "Dẫn Đường",
-      "description": "Bản đồ dẫn đường & cảnh báo tốc độ, phạt nguội, camera giao thông Việt Nam.",
-      "version": "v3.3.4",
-      "sizeMb": "187 MB",
+      "description": "Bản đồ dẫn đường & cảnh báo tốc độ, phạt nguội, camera giao thông Việt Nam. MiMi AI 3.4.0.",
+      "version": "v3.4.0",
+      "sizeMb": "161 MB",
       "iconEmoji": "🗺️",
-      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Vietmap_Live_v3.3.4.apk"
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Vietmap_Live_v3.4.0.xapk"
     },
     {
       "id": "gmaps",

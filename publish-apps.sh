@@ -8,7 +8,7 @@ REPO="liemnguyen2107-coder/geely-ex2-vietnam-xe-choi"
 cp -f apps/apps.json ota/apps.json
 
 shopt -s nullglob
-APKS=(apps/*.apk)
+APKS=(apps/*.apk apps/*.xapk)
 if [ ${#APKS[@]} -eq 0 ]; then
   echo "Không thấy file .apk trong apps/ — vẫn đẩy apps.json."
 else

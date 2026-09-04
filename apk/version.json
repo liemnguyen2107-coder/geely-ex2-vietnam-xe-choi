@@ -1,9 +1,9 @@
 {
-  "versionCode": 2,
-  "versionName": "v1.0.1",
+  "versionCode": 3,
+  "versionName": "v1.0.2",
   "releaseDate": "04/09/2026",
   "sizeMb": "14 MB",
-  "changelog": "• Icon Wi-Fi thanh bar kích thước gốc, không hiện SSID\n• Tự kết nối mạng Wi-Fi đã lưu khi bật xe\n• Không tự đảo gió trong/ngoài khi mở app\n• Tốc độ km/h theo đồng hồ cluster",
-  "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.1/EX2VNControl_v1.0.1.apk",
+  "changelog": "• Kho ứng dụng: nút Cập nhật khi GitHub có bản mới\n• Hỗ trợ cài file XAPK (Vietmap Live 3.4.0)\n• Tự kết nối Wi-Fi đã lưu, icon thanh bar kích thước gốc",
+  "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.2/EX2VNControl_v1.0.2.apk",
   "isMandatory": false
 }
