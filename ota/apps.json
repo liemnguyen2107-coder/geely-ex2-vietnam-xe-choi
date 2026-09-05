@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-09-05",
-  "storeVersion": "1.0.3",
+  "storeVersion": "1.0.4",
   "apps": [
     {
       "id": "vietmap",
@@ -25,6 +25,17 @@
       "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/YouTube_Morphe_Ext_v21.07.243.apk"
     },
     {
+      "id": "ytmusic",
+      "name": "YT Music Morphe",
+      "packageName": "app.morphe.android.apps.youtube.music",
+      "category": "Âm Nhạc",
+      "description": "YouTube Music cho xe, nghe nhạc không quảng cáo.",
+      "version": "v9.30.52",
+      "sizeMb": "70 MB",
+      "iconEmoji": "🎶",
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/YT_Music_Morphe_v9.30.52.apk"
+    },
+    {
       "id": "spotify",
       "name": "Spotify Music Xe Hơi",
       "packageName": "com.spotify.music",
@@ -34,6 +45,28 @@
       "sizeMb": "74 MB",
       "iconEmoji": "🎵",
       "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Spotify_%2BMusic%2Band%2BPodcasts_9.0.24.601_APKPure.apk"
+    },
+    {
+      "id": "microg",
+      "name": "microG (Dịch vụ Google)",
+      "packageName": "app.revanced.android.gms",
+      "category": "Tiện Ích",
+      "description": "Dịch vụ Google thay thế (microG ReVanced). Cần cho YouTube / một số app đăng nhập Google.",
+      "version": "v0.3.13.2",
+      "sizeMb": "101 MB",
+      "iconEmoji": "⚙️",
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/microG_ReVanced_v0.3.13.2.apk"
+    },
+    {
+      "id": "gtts",
+      "name": "Google Chuyển văn bản thành giọng nói",
+      "packageName": "com.google.android.tts",
+      "category": "Tiện Ích",
+      "description": "Công cụ đọc tiếng Việt / TTS của Google. Nên cài để Vietmap và app khác đọc được lời.",
+      "version": "v25.2.1",
+      "sizeMb": "30 MB",
+      "iconEmoji": "🗣️",
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Google_TTS_v25.2.1.apk"
     }
   ]
 }
