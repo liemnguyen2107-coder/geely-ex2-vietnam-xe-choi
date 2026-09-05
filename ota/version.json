@@ -2,8 +2,8 @@
   "versionCode": 6,
   "versionName": "v1.0.5",
   "releaseDate": "05/09/2026",
-  "sizeMb": "15 MB",
-  "changelog": "• Ô màu xe nhỏ hơn; dock: Tiện ích | Voice | Kho App (icon mây). VOICE + SPLIT; Vĩnh viễn mở cả hai",
+  "sizeMb": "15.5 MB",
+  "changelog": "• Độ sáng = màn hình trung tâm (ngày/đêm IHU), không phải đèn pha. Chọn màu xe, icon chia đôi, VOICE+SPLIT",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.5/EX2VNControl_v1.0.5.apk",
   "isMandatory": false
 }
