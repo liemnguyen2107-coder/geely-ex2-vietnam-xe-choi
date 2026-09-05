@@ -3,7 +3,7 @@
   "versionName": "v1.0.5",
   "releaseDate": "04/09/2026",
   "sizeMb": "14 MB",
-  "changelog": "• Dòng trạng thái OTA dưới tên phiên bản (cập nhật mới / bản mới nhất)",
+  "changelog": "• Thẻ sạc dưới Năng lượng: thời gian, công suất, điện áp, dòng điện, giới hạn % pin",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.5/EX2VNControl_v1.0.5.apk",
   "isMandatory": false
 }
