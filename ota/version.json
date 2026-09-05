@@ -3,7 +3,7 @@
   "versionName": "v1.0.5",
   "releaseDate": "05/09/2026",
   "sizeMb": "15 MB",
-  "changelog": "• Sửa cài APK kho ứng dụng: PackageInstaller + pm /data/local/tmp như CentralEX",
+  "changelog": "• Ra lệnh giọng nói (gói Tính năng / Vĩnh viễn): điều hòa, lái, kính, cốp, Vietmap",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.5/EX2VNControl_v1.0.5.apk",
   "isMandatory": false
 }
