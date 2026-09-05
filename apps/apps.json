@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-04",
-  "storeVersion": "1.0.2",
+  "updatedAt": "2026-09-05",
+  "storeVersion": "1.0.3",
   "apps": [
     {
       "id": "vietmap",
@@ -12,17 +12,6 @@
       "sizeMb": "161 MB",
       "iconEmoji": "🗺️",
       "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Vietmap_Live_v3.4.0.xapk"
-    },
-    {
-      "id": "gmaps",
-      "name": "Google Maps (Bản Đồ)",
-      "packageName": "com.google.android.apps.maps",
-      "category": "Dẫn Đường",
-      "description": "Bản đồ trực tuyến Google Maps cập nhật mật độ giao thông và dẫn đường chính xác.",
-      "version": "v11.115",
-      "sizeMb": "55 MB",
-      "iconEmoji": "📍",
-      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/maps_automotive.apk"
     },
     {
       "id": "youtube",
@@ -41,43 +30,10 @@
       "packageName": "com.spotify.music",
       "category": "Âm Nhạc",
       "description": "Kho nhạc trực tuyến hàng triệu bài hát bản quyền chất lượng cao cho ô tô.",
-      "version": "v8.9.18",
-      "sizeMb": "42 MB",
+      "version": "v9.0.24",
+      "sizeMb": "74 MB",
       "iconEmoji": "🎵",
-      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/spotify_car.apk"
-    },
-    {
-      "id": "zingmp3",
-      "name": "Zing MP3 Xe Hơi",
-      "packageName": "com.zing.mp3",
-      "category": "Âm Nhạc",
-      "description": "Ứng dụng nghe nhạc Việt Nam hàng đầu với tuyển tập Top 100 bài hát hay nhất.",
-      "version": "v24.03",
-      "sizeMb": "38 MB",
-      "iconEmoji": "🎧",
-      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/zingmp3_car.apk"
-    },
-    {
-      "id": "vtvgo",
-      "name": "VTV Go (Truyền Hình)",
-      "packageName": "vn.vtv.vtvgo",
-      "category": "Giải Trí",
-      "description": "Xem truyền hình trực tiếp các kênh VTV1 HD, VTV3 HD, VTV Cần Thơ sắc nét.",
-      "version": "v4.2.1",
-      "sizeMb": "28 MB",
-      "iconEmoji": "📡",
-      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/vtvgo.apk"
-    },
-    {
-      "id": "zarchiver",
-      "name": "Quản Lý Tệp ZArchiver",
-      "packageName": "ru.zdevs.zarchiver",
-      "category": "Tiện Ích",
-      "description": "Quản lý dữ liệu USB, sao chép nhạc, video, hình nền vào bộ nhớ trong xe.",
-      "version": "v1.0.8",
-      "sizeMb": "6 MB",
-      "iconEmoji": "📁",
-      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/zarchiver.apk"
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Spotify_%2BMusic%2Band%2BPodcasts_9.0.24.601_APKPure.apk"
     }
   ]
 }
