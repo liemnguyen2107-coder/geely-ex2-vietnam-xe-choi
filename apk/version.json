@@ -1,9 +1,9 @@
 {
   "versionCode": 6,
   "versionName": "v1.0.5",
-  "releaseDate": "04/09/2026",
-  "sizeMb": "14 MB",
-  "changelog": "• Thẻ sạc dưới Năng lượng: thời gian, công suất, điện áp, dòng điện, giới hạn % pin",
+  "releaseDate": "05/09/2026",
+  "sizeMb": "15 MB",
+  "changelog": "• Kích hoạt: Free / Tính năng / Vĩnh viễn (1 xe 1 hồ sơ)\n• Giữ gió trong/ngoài, không tự đổi khi về P",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.5/EX2VNControl_v1.0.5.apk",
   "isMandatory": false
 }
