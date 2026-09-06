@@ -3,7 +3,7 @@
   "versionName": "v1.0.6",
   "releaseDate": "06/09/2026",
   "sizeMb": "15.5 MB",
-  "changelog": "• Gói vĩnh viễn 3.000.000đ. Màn key liệt kê tính năng + tự nhận tính năng mới khi OTA. Dùng thử 30 ngày.",
+  "changelog": "• Sửa OTA: tải xong tự cài lên xe (không còn mất bảng). Gói vĩnh viễn 3tr, danh sách tính năng trên màn key.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.6/EX2VNControl_v1.0.6.apk",
   "isMandatory": false
 }
