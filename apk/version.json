@@ -3,7 +3,7 @@
   "versionName": "v1.0.7",
   "releaseDate": "06/09/2026",
   "sizeMb": "15.0 MB",
-  "changelog": "• Tự mở EX2 VN Control khi xe khởi động.\n• Mở app không còn tự hiện overlay giọng nói — chỉ khi bấm mic, nút vô lăng hoặc ra lệnh.\n• Đang chia màn: bấm cửa sổ zin (Home, năng lượng, 360, cài đặt…) thì bung full, không bị nhét ô phải.",
+  "changelog": "• Tự mở EX2 VN Control khi xe khởi động.\n• Mở app không tự hiện giọng nói.\n• Bấm về màn hình chính khi đang chia: tắt docked stack hẳn, Vietmap không còn đè nửa màn.\n• Cửa sổ zin (năng lượng, 360…) bung full, không nhét ô phải.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.7/EX2VNControl_v1.0.7.apk",
   "isMandatory": false
 }
