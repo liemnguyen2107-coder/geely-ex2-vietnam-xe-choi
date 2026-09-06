@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-05",
-  "storeVersion": "1.0.4",
+  "updatedAt": "2026-09-06",
+  "storeVersion": "1.0.5",
   "apps": [
     {
       "id": "vietmap",
@@ -45,6 +45,17 @@
       "sizeMb": "74 MB",
       "iconEmoji": "🎵",
       "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Spotify_%2BMusic%2Band%2BPodcasts_9.0.24.601_APKPure.apk"
+    },
+    {
+      "id": "gapp",
+      "name": "Ứng dụng Google (Ra lệnh giọng nói)",
+      "packageName": "com.google.android.googlequicksearchbox",
+      "category": "Tiện Ích",
+      "description": "Phần NGHE của ra lệnh giọng nói tiếng Việt. Thiếu app này thì bấm giọng nói sẽ báo không nghe được, dù đã cài Google TTS. Cần cài kèm microG.",
+      "version": "v10.99.8.21",
+      "sizeMb": "124 MB",
+      "iconEmoji": "🎤",
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Google_App_v10.99.8.21.apk"
     },
     {
       "id": "microg",
