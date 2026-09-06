@@ -3,7 +3,7 @@
   "versionName": "v1.0.6",
   "releaseDate": "06/09/2026",
   "sizeMb": "15.9 MB",
-  "changelog": "• Giọng nói: gán nút nghe gọi vô lăng, đọc đúng số quạt/nhiệt độ, chế độ thoải mái, hạ kính từng cửa và cả 4 kính.",
+  "changelog": "• Giọng nói điều hòa giống Geely Connect: đọc 24 độ / quạt mức 5, ghi đúng VHAL area 5.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.6/EX2VNControl_v1.0.6.apk",
   "isMandatory": false
 }
