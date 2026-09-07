@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "v1.0.8",
+  "versionCode": 10,
+  "versionName": "v1.0.9",
   "releaseDate": "07/09/2026",
-  "sizeMb": "15.2 MB",
-  "changelog": "• Công tắc hé kính bật/tắt ngay, không chờ VHAL.\n• Lỗi giọng 8: micro Google đang bận — tự thử lại, câu báo rõ hơn.\n• Wi‑Fi: không scan/reconnect khi đã vào mạng (chip MediaTek rớt sóng nếu scan).\n• Không tranh mạng với hotspot iPhone đã lưu.",
-  "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.8/EX2VNControl_v1.0.8.apk",
+  "sizeMb": "15.0 MB",
+  "changelog": "• Kho ứng dụng cài được Ứng dụng Google trên Android 9.\n• Tự hé kính khi mở cửa (thông gió); công tắc bật/tắt ngay.\n• Lỗi giọng nói hiện câu rõ (mã 0, 8 — micro Google bận).\n• Wi‑Fi không scan/reconnect khi đã vào mạng (tránh rớt sóng MediaTek).",
+  "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.9/EX2VNControl_v1.0.9.apk",
   "isMandatory": false
 }
