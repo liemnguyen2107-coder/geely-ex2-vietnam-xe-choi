@@ -1,9 +1,9 @@
 {
   "versionCode": 9,
   "versionName": "v1.0.8",
-  "releaseDate": "06/09/2026",
-  "sizeMb": "15.0 MB",
-  "changelog": "• Tắt chia / về Home: che cả band rồi gỡ viền và app một nhịp.\n• Khung bo góc hiện sau khi hai ô đã có, không còn viền đen trước app.\n• Cài đặt xe, danh sách app, điều hòa zin: tắt chia rồi bung full.\n• Icon Wi‑Fi và chia đôi 42px; chia đôi bên trái Wi‑Fi.\n• Lệnh giọng đặt nhiệt độ không còn ép quạt lên mức 3.",
+  "releaseDate": "07/09/2026",
+  "sizeMb": "15.2 MB",
+  "changelog": "• Cài kho: copy APK ra /data/local/tmp rồi pm install (Android 9 không nhận session tên base).\n• Tự hé kính khi mở cửa để thông gió (công tắc Cửa kính).\n• Lỗi giọng nói hiện câu rõ, kể cả mã 0 (thiếu Ứng dụng Google).",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.8/EX2VNControl_v1.0.8.apk",
   "isMandatory": false
 }
