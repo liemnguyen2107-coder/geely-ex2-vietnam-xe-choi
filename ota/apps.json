@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-09-08",
-  "storeVersion": "1.0.7",
+  "storeVersion": "1.0.8",
   "apps": [
     {
       "id": "vietmap",
@@ -103,36 +103,14 @@
     },
     {
       "id": "unifiednlp",
-      "name": "UnifiedNlp (định vị microG)",
+      "name": "UnifiedNlp (định vị qua Wi-Fi / sóng)",
       "packageName": "com.google.android.location",
       "category": "Tiện Ích",
-      "description": "Bổ trợ định vị qua Wi-Fi / trạm sóng, thuộc bộ microG TIÊU CHUẨN (dùng kèm com.google.android.gms). KHÔNG phải bản cho microG ReVanced đang có trong kho, cũng không thay thế nó. Cần ROM hỗ trợ giả chữ ký hoặc quyền hệ thống mới chạy; ROM trên xe có thể không hỗ trợ, cài vào không thấy tác dụng là bình thường, gỡ ra được.",
+      "description": "Bộ định vị dự phòng qua Wi-Fi và trạm phát sóng, dành cho máy không bắt được GPS. Xe đã có GPS thật nên phần lớn trường hợp KHÔNG cần cài; chỉ dùng khi định vị trục trặc. Thuộc bộ microG tiêu chuẩn, cần ROM hỗ trợ giả chữ ký mới chạy — ROM trên xe có thể không hỗ trợ, cài vào không thấy tác dụng là bình thường, gỡ ra được.",
       "version": "v1.6.8",
       "sizeMb": "1.7 MB",
       "iconEmoji": "🛰️",
       "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/UnifiedNlp_v1.6.8.apk"
-    },
-    {
-      "id": "droidguard",
-      "name": "microG DroidGuard Helper",
-      "packageName": "org.microg.gms.droidguard",
-      "category": "Tiện Ích",
-      "description": "Bổ trợ xác thực SafetyNet/DroidGuard, thuộc bộ microG TIÊU CHUẨN (dùng kèm com.google.android.gms). KHÔNG phải bản cho microG ReVanced đang có trong kho, cũng không thay thế nó. Chỉ cài khi microG tiêu chuẩn báo thiếu DroidGuard; cài riêng một mình sẽ không có tác dụng gì.",
-      "version": "v0.1.0",
-      "sizeMb": "0.14 MB",
-      "iconEmoji": "🛡️",
-      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/microG_DroidGuard_v0.1.0.apk"
-    },
-    {
-      "id": "gsfproxy",
-      "name": "microG Services Framework Proxy",
-      "packageName": "com.google.android.gsf",
-      "category": "Tiện Ích",
-      "description": "Cầu nối cho app cũ còn đòi Google Services Framework, thuộc bộ microG TIÊU CHUẨN (dùng kèm com.google.android.gms). KHÔNG phải bản cho microG ReVanced đang có trong kho. Cần ROM hỗ trợ giả chữ ký hoặc quyền hệ thống mới chạy; ROM trên xe có thể không hỗ trợ, cài vào không thấy tác dụng là bình thường, gỡ ra được.",
-      "version": "v0.1.0",
-      "sizeMb": "0.02 MB",
-      "iconEmoji": "🔌",
-      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/microG_GSF_Proxy_v0.1.0.apk"
     }
   ]
 }
