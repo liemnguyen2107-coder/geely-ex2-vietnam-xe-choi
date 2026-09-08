@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-06",
-  "storeVersion": "1.0.5",
+  "updatedAt": "2026-09-08",
+  "storeVersion": "1.0.7",
   "apps": [
     {
       "id": "vietmap",
@@ -12,6 +12,28 @@
       "sizeMb": "161 MB",
       "iconEmoji": "🗺️",
       "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Vietmap_Live_v3.4.0.xapk"
+    },
+    {
+      "id": "gmaps",
+      "name": "Google Maps",
+      "packageName": "com.google.android.apps.maps",
+      "category": "Dẫn Đường",
+      "description": "Bản đồ Google quen tay: tìm địa điểm, dẫn đường, xem tình trạng giao thông. Nên cài kèm microG để đăng nhập và tìm kiếm hoạt động đầy đủ.",
+      "version": "v11.72.0301",
+      "sizeMb": "101 MB",
+      "iconEmoji": "📍",
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Google_Maps_v11.72.0301.apk"
+    },
+    {
+      "id": "waze",
+      "name": "Waze",
+      "packageName": "com.waze",
+      "category": "Dẫn Đường",
+      "description": "Dẫn đường theo cộng đồng: cảnh báo bắn tốc độ, tai nạn, tắc đường do người đi trước báo. Chạy tốt trên màn xe.",
+      "version": "v4.105.0.2",
+      "sizeMb": "96 MB",
+      "iconEmoji": "🚦",
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Waze_v4.105.0.2.apk"
     },
     {
       "id": "youtube",
@@ -44,7 +66,7 @@
       "version": "v9.0.24",
       "sizeMb": "74 MB",
       "iconEmoji": "🎵",
-      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Spotify_%2BMusic%2Band%2BPodcasts_9.0.24.601_APKPure.apk"
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Spotify_Music_v9.0.24.apk"
     },
     {
       "id": "gapp",
@@ -62,7 +84,7 @@
       "name": "microG (Dịch vụ Google)",
       "packageName": "app.revanced.android.gms",
       "category": "Tiện Ích",
-      "description": "Dịch vụ Google thay thế (microG ReVanced). Cần cho YouTube / một số app đăng nhập Google.",
+      "description": "Dịch vụ Google thay thế, bản microG ReVanced (khác bộ microG tiêu chuẩn). Cần cho YouTube Morphe / YT Music Morphe đăng nhập Google. Đây là bản microG nên cài trên xe.",
       "version": "v0.3.13.2",
       "sizeMb": "101 MB",
       "iconEmoji": "⚙️",
@@ -78,6 +100,39 @@
       "sizeMb": "30 MB",
       "iconEmoji": "🗣️",
       "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Google_TTS_v25.2.1.apk"
+    },
+    {
+      "id": "unifiednlp",
+      "name": "UnifiedNlp (định vị microG)",
+      "packageName": "com.google.android.location",
+      "category": "Tiện Ích",
+      "description": "Bổ trợ định vị qua Wi-Fi / trạm sóng, thuộc bộ microG TIÊU CHUẨN (dùng kèm com.google.android.gms). KHÔNG phải bản cho microG ReVanced đang có trong kho, cũng không thay thế nó. Cần ROM hỗ trợ giả chữ ký hoặc quyền hệ thống mới chạy; ROM trên xe có thể không hỗ trợ, cài vào không thấy tác dụng là bình thường, gỡ ra được.",
+      "version": "v1.6.8",
+      "sizeMb": "1.7 MB",
+      "iconEmoji": "🛰️",
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/UnifiedNlp_v1.6.8.apk"
+    },
+    {
+      "id": "droidguard",
+      "name": "microG DroidGuard Helper",
+      "packageName": "org.microg.gms.droidguard",
+      "category": "Tiện Ích",
+      "description": "Bổ trợ xác thực SafetyNet/DroidGuard, thuộc bộ microG TIÊU CHUẨN (dùng kèm com.google.android.gms). KHÔNG phải bản cho microG ReVanced đang có trong kho, cũng không thay thế nó. Chỉ cài khi microG tiêu chuẩn báo thiếu DroidGuard; cài riêng một mình sẽ không có tác dụng gì.",
+      "version": "v0.1.0",
+      "sizeMb": "0.14 MB",
+      "iconEmoji": "🛡️",
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/microG_DroidGuard_v0.1.0.apk"
+    },
+    {
+      "id": "gsfproxy",
+      "name": "microG Services Framework Proxy",
+      "packageName": "com.google.android.gsf",
+      "category": "Tiện Ích",
+      "description": "Cầu nối cho app cũ còn đòi Google Services Framework, thuộc bộ microG TIÊU CHUẨN (dùng kèm com.google.android.gms). KHÔNG phải bản cho microG ReVanced đang có trong kho. Cần ROM hỗ trợ giả chữ ký hoặc quyền hệ thống mới chạy; ROM trên xe có thể không hỗ trợ, cài vào không thấy tác dụng là bình thường, gỡ ra được.",
+      "version": "v0.1.0",
+      "sizeMb": "0.02 MB",
+      "iconEmoji": "🔌",
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/microG_GSF_Proxy_v0.1.0.apk"
     }
   ]
 }
