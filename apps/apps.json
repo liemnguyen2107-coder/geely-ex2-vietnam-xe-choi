@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-09-08",
-  "storeVersion": "1.0.6",
+  "storeVersion": "1.0.7",
   "apps": [
     {
       "id": "vietmap",
@@ -84,7 +84,7 @@
       "name": "microG (Dịch vụ Google)",
       "packageName": "app.revanced.android.gms",
       "category": "Tiện Ích",
-      "description": "Dịch vụ Google thay thế (microG ReVanced). Cần cho YouTube / một số app đăng nhập Google.",
+      "description": "Dịch vụ Google thay thế, bản microG ReVanced (khác bộ microG tiêu chuẩn). Cần cho YouTube Morphe / YT Music Morphe đăng nhập Google. Đây là bản microG nên cài trên xe.",
       "version": "v0.3.13.2",
       "sizeMb": "101 MB",
       "iconEmoji": "⚙️",
@@ -106,7 +106,7 @@
       "name": "UnifiedNlp (định vị microG)",
       "packageName": "com.google.android.location",
       "category": "Tiện Ích",
-      "description": "Thành phần bổ trợ đi kèm microG: giúp định vị qua Wi-Fi / trạm phát sóng cho Maps, Waze. Không thay thế microG, chỉ cài thêm khi định vị chậm hoặc sai.",
+      "description": "Bổ trợ định vị qua Wi-Fi / trạm sóng, thuộc bộ microG TIÊU CHUẨN (dùng kèm com.google.android.gms). KHÔNG phải bản cho microG ReVanced đang có trong kho, cũng không thay thế nó. Cần ROM hỗ trợ giả chữ ký hoặc quyền hệ thống mới chạy; ROM trên xe có thể không hỗ trợ, cài vào không thấy tác dụng là bình thường, gỡ ra được.",
       "version": "v1.6.8",
       "sizeMb": "1.7 MB",
       "iconEmoji": "🛰️",
@@ -117,7 +117,7 @@
       "name": "microG DroidGuard Helper",
       "packageName": "org.microg.gms.droidguard",
       "category": "Tiện Ích",
-      "description": "Thành phần bổ trợ đi kèm microG: lo phần xác thực SafetyNet/DroidGuard. Không thay thế microG, chỉ cài thêm khi app Google báo lỗi xác thực.",
+      "description": "Bổ trợ xác thực SafetyNet/DroidGuard, thuộc bộ microG TIÊU CHUẨN (dùng kèm com.google.android.gms). KHÔNG phải bản cho microG ReVanced đang có trong kho, cũng không thay thế nó. Chỉ cài khi microG tiêu chuẩn báo thiếu DroidGuard; cài riêng một mình sẽ không có tác dụng gì.",
       "version": "v0.1.0",
       "sizeMb": "0.14 MB",
       "iconEmoji": "🛡️",
@@ -128,7 +128,7 @@
       "name": "microG Services Framework Proxy",
       "packageName": "com.google.android.gsf",
       "category": "Tiện Ích",
-      "description": "Thành phần bổ trợ đi kèm microG: cầu nối cho app cũ còn đòi Google Services Framework. Không thay thế microG, chỉ cài thêm khi app báo thiếu GSF.",
+      "description": "Cầu nối cho app cũ còn đòi Google Services Framework, thuộc bộ microG TIÊU CHUẨN (dùng kèm com.google.android.gms). KHÔNG phải bản cho microG ReVanced đang có trong kho. Cần ROM hỗ trợ giả chữ ký hoặc quyền hệ thống mới chạy; ROM trên xe có thể không hỗ trợ, cài vào không thấy tác dụng là bình thường, gỡ ra được.",
       "version": "v0.1.0",
       "sizeMb": "0.02 MB",
       "iconEmoji": "🔌",
