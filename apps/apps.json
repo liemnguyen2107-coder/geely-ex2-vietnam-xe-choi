@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-06",
-  "storeVersion": "1.0.5",
+  "updatedAt": "2026-09-08",
+  "storeVersion": "1.0.6",
   "apps": [
     {
       "id": "vietmap",
@@ -12,6 +12,28 @@
       "sizeMb": "161 MB",
       "iconEmoji": "🗺️",
       "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Vietmap_Live_v3.4.0.xapk"
+    },
+    {
+      "id": "gmaps",
+      "name": "Google Maps",
+      "packageName": "com.google.android.apps.maps",
+      "category": "Dẫn Đường",
+      "description": "Bản đồ Google quen tay: tìm địa điểm, dẫn đường, xem tình trạng giao thông. Nên cài kèm microG để đăng nhập và tìm kiếm hoạt động đầy đủ.",
+      "version": "v11.72.0301",
+      "sizeMb": "101 MB",
+      "iconEmoji": "📍",
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Google_Maps_v11.72.0301.apk"
+    },
+    {
+      "id": "waze",
+      "name": "Waze",
+      "packageName": "com.waze",
+      "category": "Dẫn Đường",
+      "description": "Dẫn đường theo cộng đồng: cảnh báo bắn tốc độ, tai nạn, tắc đường do người đi trước báo. Chạy tốt trên màn xe.",
+      "version": "v4.105.0.2",
+      "sizeMb": "96 MB",
+      "iconEmoji": "🚦",
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Waze_v4.105.0.2.apk"
     },
     {
       "id": "youtube",
@@ -44,7 +66,7 @@
       "version": "v9.0.24",
       "sizeMb": "74 MB",
       "iconEmoji": "🎵",
-      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Spotify_%2BMusic%2Band%2BPodcasts_9.0.24.601_APKPure.apk"
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Spotify_Music_v9.0.24.apk"
     },
     {
       "id": "gapp",
@@ -78,6 +100,39 @@
       "sizeMb": "30 MB",
       "iconEmoji": "🗣️",
       "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Google_TTS_v25.2.1.apk"
+    },
+    {
+      "id": "unifiednlp",
+      "name": "UnifiedNlp (định vị microG)",
+      "packageName": "com.google.android.location",
+      "category": "Tiện Ích",
+      "description": "Thành phần bổ trợ đi kèm microG: giúp định vị qua Wi-Fi / trạm phát sóng cho Maps, Waze. Không thay thế microG, chỉ cài thêm khi định vị chậm hoặc sai.",
+      "version": "v1.6.8",
+      "sizeMb": "1.7 MB",
+      "iconEmoji": "🛰️",
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/UnifiedNlp_v1.6.8.apk"
+    },
+    {
+      "id": "droidguard",
+      "name": "microG DroidGuard Helper",
+      "packageName": "org.microg.gms.droidguard",
+      "category": "Tiện Ích",
+      "description": "Thành phần bổ trợ đi kèm microG: lo phần xác thực SafetyNet/DroidGuard. Không thay thế microG, chỉ cài thêm khi app Google báo lỗi xác thực.",
+      "version": "v0.1.0",
+      "sizeMb": "0.14 MB",
+      "iconEmoji": "🛡️",
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/microG_DroidGuard_v0.1.0.apk"
+    },
+    {
+      "id": "gsfproxy",
+      "name": "microG Services Framework Proxy",
+      "packageName": "com.google.android.gsf",
+      "category": "Tiện Ích",
+      "description": "Thành phần bổ trợ đi kèm microG: cầu nối cho app cũ còn đòi Google Services Framework. Không thay thế microG, chỉ cài thêm khi app báo thiếu GSF.",
+      "version": "v0.1.0",
+      "sizeMb": "0.02 MB",
+      "iconEmoji": "🔌",
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/microG_GSF_Proxy_v0.1.0.apk"
     }
   ]
 }
