@@ -1,9 +1,9 @@
 {
   "versionCode": 10,
   "versionName": "v1.0.9",
-  "releaseDate": "07/09/2026",
-  "sizeMb": "16.0 MB",
-  "changelog": "• Chia đôi màn hình làm lại bằng cách chia zin của hệ thống: giữ nguyên thanh trạng thái và thanh điều hoà dưới, YouTube hiện bình thường (không còn màn đen).\n• Bật/tắt chia màn không còn giật đen — phủ kín vùng nội dung suốt lúc chuyển, chỉ mở ra khi hai ô đã vào đúng chỗ.\n• Bỏ hẳn khung viền đen và bo góc: hai ô lát kín màn, chạm nhau ở vạch chia, nhìn sạch hơn.\n• Kéo vạch giữa hoặc bấm 30:70 … 70:30 để đổi tỉ lệ.\n• Hai app lên cùng một nhịp: chờ cả hai bên vẽ xong mới mở ra, không còn bên trái hiện trước bên phải hiện sau.\n• Bật và thoát chia màn đều có chuyển động: mở thì nhả ra, thoát thì hai ô lùi lại rồi tan nhẹ để lộ màn hình chính / danh sách ứng dụng / điều hoà. Không còn tắt bụp.\n• Kho ứng dụng cài được Ứng dụng Google trên Android 9.\n• Tự hé kính khi mở cửa (thông gió); công tắc bật/tắt ngay.\n• Giọng nói: không còn báo nhầm “gọi điện / micro bận” — chờ Google nhả mic rồi nghe.\n• Wi‑Fi không scan/reconnect khi đã vào mạng (tránh rớt sóng MediaTek).",
+  "releaseDate": "09/09/2026",
+  "sizeMb": "15.0 MB",
+  "changelog": "• Chia đôi kiểu Geely Connect (ActivityView): hai ô trong một màn, vạch kéo tỉ lệ giữ nguyên.\n• Nút tỉ lệ 30:70 · 40:60 · 50:50 · 60:40 · 70:30; nút Chọn app riêng, bỏ phóng to.\n• Thoát ra màn chính / mở app khác: chia màn xuống nền, app trong ô không bị load lại khi vào lại.\n• Nói “tắt chia” mới đóng hẳn màn chia đôi.\n• Kho ứng dụng cài được Ứng dụng Google trên Android 9.\n• Tự hé kính khi mở cửa (thông gió); công tắc bật/tắt ngay.\n• Giọng nói: không còn báo nhầm “gọi điện / micro bận” — chờ Google nhả mic rồi nghe.\n• Wi‑Fi không scan/reconnect khi đã vào mạng (tránh rớt sóng MediaTek).",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.9/EX2VNControl_v1.0.9.apk",
   "isMandatory": false
 }
