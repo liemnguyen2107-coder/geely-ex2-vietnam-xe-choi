@@ -1,9 +1,9 @@
 {
   "versionCode": 11,
   "versionName": "v1.1.0",
-  "releaseDate": "09/09/2026",
-  "sizeMb": "15.0 MB",
-  "changelog": "• Chia đôi màn kiểu Geely Connect (ActivityView): hai ô trong một màn, vạch kéo tỉ lệ.\n• Nút tỉ lệ 30:70 · 40:60 · 50:50 · 60:40 · 70:30 và nút Tắt chia cùng một hàng.\n• Nút Chọn app riêng từng ô, bỏ phóng to.\n• Thoát ra màn chính / mở app khác: chia màn xuống nền, app trong ô không bị load lại.\n• Nút Tắt chia hoặc nói “tắt chia” mới đóng hẳn màn chia đôi.",
+  "releaseDate": "10/09/2026",
+  "sizeMb": "26.0 MB",
+  "changelog": "• Tắt tiếng AVAS cảnh báo người đi bộ (loa ngoài im, nhớ lúc nổ máy).\n• Đổi tiếng AVAS kiểu 1 / 2 / 3 như CentralEX, có nghe thử nếu xe có file tiếng.\n• Giọng nói: tắt AVAS, bật AVAS, tiếng AVAS 1–3.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.1.0/EX2VNControl_v1.1.0.apk",
   "isMandatory": false
 }
