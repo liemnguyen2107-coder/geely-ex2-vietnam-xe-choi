@@ -1,9 +1,9 @@
 {
-  "versionCode": 11,
-  "versionName": "v1.1.0",
+  "versionCode": 12,
+  "versionName": "v1.2.0",
   "releaseDate": "10/09/2026",
-  "sizeMb": "26.0 MB",
-  "changelog": "• Tắt tiếng AVAS cảnh báo người đi bộ (loa ngoài im, nhớ lúc nổ máy).\n• Đổi tiếng AVAS kiểu 1 / 2 / 3 như CentralEX, có nghe thử nếu xe có file tiếng.\n• Giọng nói: tắt AVAS, bật AVAS, tiếng AVAS 1–3.",
-  "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.1.0/EX2VNControl_v1.1.0.apk",
+  "sizeMb": "16.6 MB",
+  "changelog": "• Giao diện điều khiển mới: chế độ lái, sạc, điều hòa, kính, cốp trước/sau.\n• Ba cửa sổ: cụm lái, hai app cạnh nhau, nút mở cốp nhanh, nút Home về màn hình chính của xe.\n• Thanh dưới: Home, Vietmap, YouTube, nhạc, kho, giọng, tiện ích — bỏ lối vào màn cũ.",
+  "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.0/EX2VNControl_v1.2.0.apk",
   "isMandatory": false
 }
