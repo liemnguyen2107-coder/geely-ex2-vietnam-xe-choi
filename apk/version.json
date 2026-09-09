@@ -1,9 +1,9 @@
 {
-  "versionCode": 12,
-  "versionName": "v1.2.0",
+  "versionCode": 13,
+  "versionName": "v1.2.1",
   "releaseDate": "10/09/2026",
-  "sizeMb": "18.0 MB",
-  "changelog": "• Hành trình tự ghi: từ đâu đến đâu, km, thời gian, pin đã dùng.\n• Icon app Hành trình trên màn xe, cạnh Split Mode.\n• Bắt đầu khi ra P, chạy trên 20 km/h. Lưu sau 5 phút đỗ P.",
-  "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.0/EX2VNControl_v1.2.0.apk",
+  "sizeMb": "16.7 MB",
+  "changelog": "• Mở app vào giao diện mới (xe, dock app, nút Kích hoạt).\n• Màn ba cột cũ chỉ còn trong Công cụ nếu cần.",
+  "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.1/EX2VNControl_v1.2.1.apk",
   "isMandatory": false
 }
