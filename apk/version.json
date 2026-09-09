@@ -3,7 +3,7 @@
   "versionName": "v1.2.1",
   "releaseDate": "10/09/2026",
   "sizeMb": "18.0 MB",
-  "changelog": "• App điện thoại: xem xe trên LAN, chỉnh điều hòa và cốp; màn QR IP/cổng trên xe.\n• Icon Split Mode mới (hai ô, vạch giữa, nền đen).\n• Icon app Hành trình; tự ghi km, thời gian, pin.",
+  "changelog": "• Icon Hành trình mới: xe EX2 nhìn từ trên, mũi tên xanh.\n• Icon Split Mode mới (hai ô, vạch giữa, nền đen).\n• App điện thoại: xem xe trên LAN, chỉnh điều hòa và cốp.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.1/EX2VNControl_v1.2.1.apk",
   "isMandatory": false
 }
