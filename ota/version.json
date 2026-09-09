@@ -2,8 +2,8 @@
   "versionCode": 12,
   "versionName": "v1.2.0",
   "releaseDate": "10/09/2026",
-  "sizeMb": "16.6 MB",
-  "changelog": "• Giao diện điều khiển mới: chế độ lái, sạc, điều hòa, kính, cốp trước/sau.\n• Ba cửa sổ: cụm lái, hai app cạnh nhau, nút mở cốp nhanh, nút Home về màn hình chính của xe.\n• Thanh dưới: Home, Vietmap, YouTube, nhạc, kho, giọng, tiện ích — bỏ lối vào màn cũ.",
+  "sizeMb": "17.0 MB",
+  "changelog": "• Hành trình tự ghi: từ đâu đến đâu, km, thời gian, pin đã dùng.\n• Bắt đầu khi ra P, chạy trên 20 km/h. Lưu sau 5 phút đỗ P (bỏ chuyến dưới 0,5 km hoặc 5 phút).\n• Giọng nói: xem hành trình, đã tới, hành trình vừa rồi.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.0/EX2VNControl_v1.2.0.apk",
   "isMandatory": false
 }
