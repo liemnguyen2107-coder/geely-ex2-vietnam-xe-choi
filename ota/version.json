@@ -1,9 +1,9 @@
 {
-  "versionCode": 13,
-  "versionName": "v1.2.1",
+  "versionCode": 14,
+  "versionName": "v1.2.2",
   "releaseDate": "10/09/2026",
-  "sizeMb": "18.1 MB",
-  "changelog": "• Gửi điểm Google Maps từ điện thoại: xe phân tích link và tìm đường trên app dẫn đường đang dùng.\n• Camera khi rẽ: cửa sổ AVM bên trái/phải theo xi nhan, chạy từ 30 km/h (không tắt lúc vượt 30).\n• Sửa quạt gió realtime; phanh tái sinh menu nổi; sấy kính mưa.",
-  "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.1/EX2VNControl_v1.2.1.apk",
+  "sizeMb": "18.0 MB",
+  "changelog": "• App điện thoại: điều khiển từ xa khóa cửa, điều hòa, cốp, kính; xem vị trí xe; không cần cùng Wi‑Fi.\n• Gửi điểm Google Maps từ điện thoại, xe tự tìm đường trên app dẫn đường đang dùng.\n• Camera khi rẽ: cửa sổ AVM trái/phải theo xi nhan, chạy từ 30 km/h.\n• Hành trình: card theo ngày, bản đồ A/B, tự ghi km / thời gian / pin.\n• Sửa quạt gió realtime, phanh tái sinh, sấy kính mưa; giữ màn khi mở, mở app lúc nổ máy.",
+  "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.2/EX2VNControl_v1.2.2.apk",
   "isMandatory": false
 }
