@@ -2,8 +2,8 @@
   "versionCode": 14,
   "versionName": "v1.2.2",
   "releaseDate": "10/09/2026",
-  "sizeMb": "18.4 MB",
-  "changelog": "• Sửa bấm icon không mở lại được sau khi về màn gốc xe.\n• Gỡ icon Chia màn hình và Ba cửa sổ khỏi danh sách ứng dụng — vào từ thanh bar / Công cụ.\n• Camera khi rẽ: cửa sổ AVM trái/phải theo xi nhan, chạy từ 30 km/h.\n• Hành trình: card theo ngày, bản đồ A/B.",
+  "sizeMb": "19.1 MB",
+  "changelog": "• Giao diện: % giới hạn sạc khi kéo không bị che; cốp nhỏ phía trên xe; nút điều hòa to hơn; ô kính gọn lại.\n• App nằm giữa thanh bar trên/dưới của xe, không phủ full màn.\n• Gỡ icon Ba cửa sổ khỏi kho app xe (vẫn mở từ Công cụ / nút thanh bar).\n• App điện thoại: điều khiển từ xa khóa cửa, điều hòa, cốp, kính; xem vị trí xe.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.2/EX2VNControl_v1.2.2.apk",
   "isMandatory": false
 }
