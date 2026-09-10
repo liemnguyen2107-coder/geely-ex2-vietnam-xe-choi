@@ -2,8 +2,8 @@
   "versionCode": 13,
   "versionName": "v1.2.1",
   "releaseDate": "10/09/2026",
-  "sizeMb": "19.0 MB",
-  "changelog": "• App điện thoại điều khiển từ xa: khóa cửa, điều hòa, cốp, kính — xe có mạng + điện thoại có mạng, không cần cùng Wi‑Fi.\n• Quét mã QR một lần trên xe để lấy mã từ xa.",
+  "sizeMb": "18.3 MB",
+  "changelog": "• Sửa app tự thu xuống sau khi mở — giữ màn điều khiển khi Flyme đè.\n• Mở app lúc nổ máy (Công cụ → Mở khi nổ máy, mặc định bật).\n• App điện thoại điều khiển từ xa: khóa cửa, điều hòa, cốp, kính — không cần cùng Wi‑Fi.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.1/EX2VNControl_v1.2.1.apk",
   "isMandatory": false
 }
