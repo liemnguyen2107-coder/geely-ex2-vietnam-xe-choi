@@ -2,8 +2,8 @@
   "versionCode": 14,
   "versionName": "v1.2.2",
   "releaseDate": "10/09/2026",
-  "sizeMb": "19.1 MB",
-  "changelog": "• Chế độ lái Sport / Êm và phanh tái sinh không bị nhảy về Thoải mái.\n• Giới hạn sạc dừng đúng % đã chọn; quạt +/− phản hồi nhanh hơn.\n• Sấy kính trước/sau không nhảy nút, tắt thì về hướng gió cũ.\n• Gỡ ảnh nền, về màn gốc, tên bài trên đồng hồ.\n• Vuốt nhiều ngón, tự tối màn theo thời gian chọn, giữ app không bị dọn nhầm.\n• Ba cửa sổ nằm giữa 2 thanh bar, hết chớp chia 2 màn.",
+  "sizeMb": "18.1 MB",
+  "changelog": "• Tự hé kính khi mở cửa: đọc đúng trạng thái cửa, hé ~10% khi mở, kéo lên khi đóng.\n• Hành trình: sửa km, tốc độ TB, kWh (pin EX2 39,4 kWh), tiêu hao/100 km.\n• GPS live: mốc A/B và đường đi tách riêng, đúng lộ trình xe chạy.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.2/EX2VNControl_v1.2.2.apk",
   "isMandatory": false
 }
