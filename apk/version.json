@@ -2,8 +2,8 @@
   "versionCode": 14,
   "versionName": "v1.2.2",
   "releaseDate": "10/09/2026",
-  "sizeMb": "18.0 MB",
-  "changelog": "• App điện thoại: điều khiển từ xa khóa cửa, điều hòa, cốp, kính; xem vị trí xe; không cần cùng Wi‑Fi.\n• Gửi điểm Google Maps từ điện thoại, xe tự tìm đường trên app dẫn đường đang dùng.\n• Camera khi rẽ: cửa sổ AVM trái/phải theo xi nhan, chạy từ 30 km/h.\n• Hành trình: card theo ngày, bản đồ A/B, tự ghi km / thời gian / pin.\n• Sửa quạt gió realtime, phanh tái sinh, sấy kính mưa; giữ màn khi mở, mở app lúc nổ máy.",
+  "sizeMb": "18.4 MB",
+  "changelog": "• Sửa bấm icon không mở lại được sau khi về màn gốc xe.\n• Gỡ icon Chia màn hình và Ba cửa sổ khỏi danh sách ứng dụng — vào từ thanh bar / Công cụ.\n• Camera khi rẽ: cửa sổ AVM trái/phải theo xi nhan, chạy từ 30 km/h.\n• Hành trình: card theo ngày, bản đồ A/B.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.2/EX2VNControl_v1.2.2.apk",
   "isMandatory": false
 }
