@@ -3,7 +3,7 @@
   "versionName": "v1.2.1",
   "releaseDate": "10/09/2026",
   "sizeMb": "19.0 MB",
-  "changelog": "• Hành trình: card vuông từng chuyến, nút dừng ngay trên chuyến đang ghi.\n• Gom các chuyến cùng ngày, cộng km / thời gian trong ngày.\n• Bản đồ điểm đi A và điểm đến B trên từng card.",
+  "changelog": "• Hành trình: nút Cách dùng cạnh Đóng, diễn giải đủ luật ghi chuyến.\n• Chưa có hành trình tách dòng, chữ to. Card vuông, gom theo ngày, bản đồ A/B.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.1/EX2VNControl_v1.2.1.apk",
   "isMandatory": false
 }
