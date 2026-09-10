@@ -3,7 +3,7 @@
   "versionName": "v1.2.2",
   "releaseDate": "10/09/2026",
   "sizeMb": "19.1 MB",
-  "changelog": "• Giao diện: % giới hạn sạc khi kéo không bị che; cốp nhỏ phía trên xe; nút điều hòa to hơn; ô kính gọn lại.\n• App nằm giữa thanh bar trên/dưới của xe, không phủ full màn.\n• Gỡ icon Ba cửa sổ khỏi kho app xe (vẫn mở từ Công cụ / nút thanh bar).\n• App điện thoại: điều khiển từ xa khóa cửa, điều hòa, cốp, kính; xem vị trí xe.",
+  "changelog": "• Chế độ lái Sport / Êm và phanh tái sinh không bị nhảy về Thoải mái.\n• Giới hạn sạc dừng đúng % đã chọn; quạt +/− phản hồi nhanh hơn.\n• Sấy kính trước/sau không nhảy nút, tắt thì về hướng gió cũ.\n• Gỡ ảnh nền, về màn gốc, tên bài trên đồng hồ.\n• Vuốt nhiều ngón, tự tối màn theo thời gian chọn, giữ app không bị dọn nhầm.\n• Ba cửa sổ nằm giữa 2 thanh bar, hết chớp chia 2 màn.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.2/EX2VNControl_v1.2.2.apk",
   "isMandatory": false
 }
