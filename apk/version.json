@@ -2,8 +2,8 @@
   "versionCode": 13,
   "versionName": "v1.2.1",
   "releaseDate": "10/09/2026",
-  "sizeMb": "18.0 MB",
-  "changelog": "• Chỉ còn một icon Hành trình trên kho app xe.\n• Icon Hành trình mới: xe EX2 nhìn từ trên, mũi tên xanh.\n• Kho app: icon đúng từng app, danh sách ra nhanh hơn.",
+  "sizeMb": "19.2 MB",
+  "changelog": "• Hiện lại icon Split Mode (hai ô, vạch giữa, nền đen).\n• Chỉ còn một icon Hành trình trên kho app xe.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.1/EX2VNControl_v1.2.1.apk",
   "isMandatory": false
 }
