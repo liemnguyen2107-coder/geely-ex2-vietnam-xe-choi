@@ -3,7 +3,7 @@
   "versionName": "v1.2.2",
   "releaseDate": "11/09/2026",
   "sizeMb": "44.3 MB",
-  "changelog": "• Chia đôi màn copy Geely Connect: ActivityView + StateCallback, không phủ full màn.\n• Ba cửa sổ mở như app thường: giữ 2 thanh bar xe, không VirtualDisplay.\n• Hai ô app là cửa sổ freeform trong khung giữa bar trên/dưới.\n• Cột lái: bỏ xi nhan, phóng to xe / km/h / P-N-R; thêm pin, tiêu hao, quãng đường còn lại.\n• Gỡ vuốt nhiều ngón khỏi Công cụ và màn kích hoạt.\n• Tiếng ting khi sẵn sàng nghe lệnh.",
+  "changelog": "• Gỡ Ba cửa sổ khỏi Công cụ, màn chính, thanh bar xe và màn kích hoạt.\n• Giữ chia hai màn như cũ.\n• Gỡ vuốt nhiều ngón khỏi Công cụ và màn kích hoạt.\n• Tiếng ting khi sẵn sàng nghe lệnh.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.2/EX2VNControl_v1.2.2.apk",
   "isMandatory": false
 }
