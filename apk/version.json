@@ -3,7 +3,7 @@
   "versionName": "v1.2.2",
   "releaseDate": "10/09/2026",
   "sizeMb": "45.9 MB",
-  "changelog": "• Hành trình: GPS vệ tinh + bám đường OSM, vẽ đúng tuyến trên bản đồ.\n• Sửa km, tốc độ TB, kWh (pin EX2 39,4 kWh), tiêu hao/100 km.\n• Ra lệnh giọng nói tiếng Việt trên xe (Zipformer), không cần mạng sau khi tải bộ nghe.\n• Tự hé kính khi mở cửa: hé ~10% khi mở, kéo lên khi đóng.",
+  "changelog": "• Gỡ vuốt nhiều ngón khỏi Công cụ và màn kích hoạt.\n• Hành trình: GPS vệ tinh + bám đường OSM, vẽ đúng tuyến trên bản đồ.\n• Ra lệnh giọng nói tiếng Việt trên xe (Zipformer), không cần mạng sau khi tải bộ nghe.\n• Tự hé kính khi mở cửa: hé ~10% khi mở, kéo lên khi đóng.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.2/EX2VNControl_v1.2.2.apk",
   "isMandatory": false
 }
