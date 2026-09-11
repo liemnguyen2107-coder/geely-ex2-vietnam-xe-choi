@@ -2,8 +2,8 @@
   "versionCode": 14,
   "versionName": "v1.2.2",
   "releaseDate": "11/09/2026",
-  "sizeMb": "45.0 MB",
-  "changelog": "• Nút cốp trước / cốp sau to hơn, đặt phía trên hình xe.\n• Ba cửa sổ ghim đúng khung giữa 2 thanh bar xe, không phủ full màn.\n• Cột lái: bỏ xi nhan, phóng to hình xe / km/h / P-N-R; thêm pin, tiêu hao, quãng đường còn lại.\n• Hành trình: GPS vệ tinh + bám đường OSM. Giọng nói tiếng Việt trên xe (Zipformer).",
+  "sizeMb": "44.3 MB",
+  "changelog": "• Nút nghe gọi vô lăng: bật mới mở giọng nói, tắt trả lại nút gọi gốc.\n• Chia đôi màn ghim đúng khung giữa 2 thanh bar xe, không phủ full màn.\n• Mở app vào ô như Geely Connect: force-stop rồi setLaunchDisplayId, không nhảy ra màn hình xe.\n• Nút cốp trước / cốp sau to hơn, đặt phía trên hình xe.\n• Ba cửa sổ ghim đúng khung giữa 2 thanh bar xe.\n• Hành trình: GPS vệ tinh + bám đường OSM. Giọng nói tiếng Việt trên xe (Zipformer).\n• Zipformer giải nén bằng tar xe (~10 giây), không kẹt 'đang giải nén'.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.2/EX2VNControl_v1.2.2.apk",
   "isMandatory": false
 }
