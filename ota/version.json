@@ -2,8 +2,8 @@
   "versionCode": 14,
   "versionName": "v1.2.2",
   "releaseDate": "11/09/2026",
-  "sizeMb": "45.9 MB",
-  "changelog": "• Sport không còn nhảy về tiết kiệm: ghi đúng mã CentralEX (DYNAMIC), không ghi 0/1/2.\n• Hành trình: GPS vệ tinh + bám đường OSM, vẽ đúng tuyến trên bản đồ.\n• Sửa km, tốc độ TB, kWh (pin EX2 39,4 kWh), tiêu hao/100 km.\n• Ra lệnh giọng nói tiếng Việt trên xe (Zipformer), không cần mạng sau khi tải bộ nghe.\n• Tự hé kính khi mở cửa: hé ~10% khi mở, kéo lên khi đóng.",
+  "sizeMb": "44.0 MB",
+  "changelog": "• Gỡ vuốt nhiều ngón khỏi Công cụ và màn kích hoạt.\n• Hành trình: GPS vệ tinh + bám đường OSM, vẽ đúng tuyến trên bản đồ.\n• Ra lệnh giọng nói tiếng Việt trên xe (Zipformer), không cần mạng sau khi tải bộ nghe.\n• Tự hé kính khi mở cửa: hé ~10% khi mở, kéo lên khi đóng.\n• Màn Cài giọng và khung nghe hiện rõ Zipformer đã tải xong hay còn dùng Google.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.2/EX2VNControl_v1.2.2.apk",
   "isMandatory": false
 }
