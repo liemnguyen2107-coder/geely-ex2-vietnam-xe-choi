@@ -2,8 +2,8 @@
   "versionCode": 14,
   "versionName": "v1.2.2",
   "releaseDate": "12/09/2026",
-  "sizeMb": "43.9 MB",
-  "changelog": "• App như app thường: không tranh nút Home với màn gốc xe.\n• Nổ máy chỉ mở app một lần, không kéo lên lại khi Flyme về Home.\n• Chia hai màn: hai ô giữa thanh bar xe (không phủ full màn), app nằm trong ô.\n• Chia hai màn: mở app trong ô đúng cách Geely Connect (ActivityView + VirtualDisplay).\n• Gỡ Ba cửa sổ khỏi Công cụ, màn chính, thanh bar xe và màn kích hoạt.\n• Gỡ vuốt nhiều ngón khỏi Công cụ và màn kích hoạt.\n• Tiếng ting khi sẵn sàng nghe lệnh.\n• Overlay ghi Ra lệnh giọng nói — không hiện tên bộ nghe.",
+  "sizeMb": "45.0 MB",
+  "changelog": "• Chia hai màn copy Geely Connect 1.1.2: hai ô ActivityView, nút chọn app và phóng to, kéo vạch.\n• Gỡ Ba cửa sổ khỏi Công cụ, màn chính, thanh bar xe và màn kích hoạt.\n• Gỡ vuốt nhiều ngón khỏi Công cụ và màn kích hoạt.\n• Tiếng ting khi sẵn sàng nghe lệnh.\n• Overlay ghi Ra lệnh giọng nói — không hiện tên bộ nghe.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.2/EX2VNControl_v1.2.2.apk",
   "isMandatory": false
 }
