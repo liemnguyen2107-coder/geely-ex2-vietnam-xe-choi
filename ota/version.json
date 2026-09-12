@@ -2,7 +2,7 @@
   "versionCode": 14,
   "versionName": "v1.2.2",
   "releaseDate": "12/09/2026",
-  "sizeMb": "43.9 MB",
+  "sizeMb": "45.0 MB",
   "changelog": "• Giao diện sáng và tối: theo chế độ ngày/đêm của xe, hoặc theo giờ tự chọn.\n• App như app thường: không tranh nút Home với màn gốc xe.\n• Nổ máy chỉ mở app một lần, không kéo lên lại khi Flyme về Home.\n• Chia hai màn: hai ô giữa thanh bar xe (không phủ full màn), app nằm trong ô.\n• Gỡ Ba cửa sổ và vuốt nhiều ngón khỏi Công cụ.\n• Tiếng ting khi sẵn sàng nghe lệnh.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.2/EX2VNControl_v1.2.2.apk",
   "isMandatory": false
