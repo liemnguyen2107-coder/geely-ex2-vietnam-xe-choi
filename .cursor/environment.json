@@ -1,0 +1,11 @@
+{
+  "name": "EX2 VN Control — OTA",
+  "install": "chmod +x .cursor/validate-ota.sh publish-apk.sh publish-apps.sh && .cursor/validate-ota.sh",
+  "terminals": [
+    {
+      "name": "ota-server",
+      "command": "python3 -m http.server 8000"
+    }
+  ],
+  "ports": [{ "name": "ota-server", "port": 8000 }]
+}
