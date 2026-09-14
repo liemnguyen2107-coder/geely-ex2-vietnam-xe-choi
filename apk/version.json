@@ -3,7 +3,7 @@
   "versionName": "v1.2.5",
   "releaseDate": "14/09/2026",
   "sizeMb": "45.1 MB",
-  "changelog": "• Công cụ: Icon Wi‑Fi & chia màn là tính năng riêng (không nằm trong nút nổi); bật/tắt cả hai hoặc Chọn từng icon.\n• Công cụ: Nhiệt độ số là tính năng riêng, không nằm chung hộp thoại nút nổi.\n• Tắt màn nghỉ: chạm màn hoặc nút Back là thoát, không còn kẹt phải buộc dừng app.\n• Trụ sạc gần: bản đồ EV HUB / Trạm EV trong 20 km; lọc theo hãng sạc đã nạp tiền.\n• Ra lệnh: Google khi có mạng (đúng giọng hơn); mất mạng mới dùng bộ nghe trên xe. Tự cấp micro.",
+  "changelog": "• Công cụ: Icon Wi‑Fi & chia màn là tính năng riêng (không nằm trong nút nổi); bật/tắt cả hai hoặc Chọn từng icon.\n• Công cụ: Nhiệt độ số là tính năng riêng, không nằm chung hộp thoại nút nổi.\n• Tắt màn nghỉ: chạm màn hoặc nút Back là thoát, không còn kẹt phải buộc dừng app.\n• Trụ sạc gần: bản đồ EV HUB / Trạm EV trong 20 km; lọc theo hãng sạc đã nạp tiền.\n• Ra lệnh: Google khi có mạng; tự cấp micro cho Google; nếu Google chưa mở được thì nghe trên xe, không báo đăng nhập oan.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.5/EX2VNControl_v1.2.5.apk",
   "isMandatory": false
 }
