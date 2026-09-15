@@ -1,9 +1,9 @@
 {
-  "versionCode": 18,
-  "versionName": "v1.2.6",
-  "releaseDate": "14/09/2026",
-  "sizeMb": "45.6 MB",
+  "versionCode": 19,
+  "versionName": "v1.2.7",
+  "releaseDate": "15/09/2026",
+  "sizeMb": "45.1 MB",
   "changelog": "• Ra lệnh giống Geely Connect: ấn nút là Đang nghe / Hãy nói lệnh ngay, không chờ Đang mở micro.\n• Google SpeechRecognizer mặc định, hạ nhạc lúc nghe, tự chốt câu khi ngừng nói.",
-  "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.6/EX2VNControl_v1.2.6.apk",
+  "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.7/EX2VNControl_v1.2.7.apk",
   "isMandatory": false
 }
