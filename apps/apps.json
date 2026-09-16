@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-08",
-  "storeVersion": "1.0.8",
+  "updatedAt": "2026-09-16",
+  "storeVersion": "1.0.9",
   "apps": [
     {
       "id": "vietmap",
@@ -111,6 +111,17 @@
       "sizeMb": "1.7 MB",
       "iconEmoji": "🛰️",
       "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/UnifiedNlp_v1.6.8.apk"
+    },
+    {
+      "id": "dualdashcam",
+      "name": "DualDashcam",
+      "packageName": "br.com.central.dualdashcam",
+      "category": "Tiện Ích",
+      "description": "Camera hành trình DualDashcam. Bật xi nhan thì EX2 VN Control mở cửa sổ DualDashcam (thử nửa màn phải). Chạm cửa sổ để đổi cam sau / trái / phải. Không lấy luồng 360 của xe.",
+      "version": "v0.7.7",
+      "sizeMb": "10.2 MB",
+      "iconEmoji": "📹",
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/DualDashcam_v0.7.7.apk"
     }
   ]
 }
