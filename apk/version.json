@@ -3,7 +3,7 @@
   "versionName": "v1.2.7",
   "releaseDate": "17/09/2026",
   "sizeMb": "19.9 MB",
-  "changelog": "• QR gửi ảnh hình nền JPG, PNG hoặc HEIF (iPhone) vào thư mục hình nền xe; không nhận nhạc hay video.\n• Sửa gửi ảnh từ điện thoại qua QR: chọn ảnh rồi bấm Gửi là lên xe.\n• Kho app có DualDashcam; bật xi nhan mở cửa sổ DualDashcam (thử nửa màn phải, đổi cam sau/trái/phải). Không lấy luồng 360.\n• Chỉ nghe lệnh qua Google online (cần Wi‑Fi), bỏ nghe trên xe Zipformer.\n• Thanh ra lệnh giọng nói to hơn, chữ to hơn.",
+  "changelog": "• Giữ app không bị tắt: app đã chọn không bị xe tắt ngay khi ẩn xuống Home.\n• QR gửi ảnh hình nền JPG, PNG hoặc HEIF (iPhone) vào thư mục hình nền xe; không nhận nhạc hay video.\n• Sửa gửi ảnh từ điện thoại qua QR: chọn ảnh rồi bấm Gửi là lên xe.\n• Kho app có DualDashcam; bật xi nhan mở cửa sổ DualDashcam (thử nửa màn phải, đổi cam sau/trái/phải). Không lấy luồng 360.\n• Chỉ nghe lệnh qua Google online (cần Wi‑Fi), bỏ nghe trên xe Zipformer.\n• Thanh ra lệnh giọng nói to hơn, chữ to hơn.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.7/EX2VNControl_v1.2.7.apk",
   "isMandatory": false
 }
