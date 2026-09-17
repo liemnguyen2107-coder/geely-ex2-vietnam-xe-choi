@@ -4,7 +4,7 @@
   "patch": 2,
   "releaseDate": "17/09/2026",
   "sizeMb": "37.3 MB",
-  "changelog": "• Giọng nói: máy nghe đã đúng Google nhưng không nhận tiếng — báo rõ nếu Wi‑Fi chưa vào Google hoặc thiếu gói gms (microG YouTube không đủ).\n• Ghi chú nút Tiện ích: chỉ mô tả việc nút làm, không so với app khác.",
+  "changelog": "• Vá lỗi giọng nói\n• Cập nhật ghi chú nút Tiện ích",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.9/EX2VNControl_v1.2.9.apk",
   "isMandatory": false
 }
