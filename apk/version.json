@@ -4,7 +4,7 @@
   "patch": 2,
   "releaseDate": "17/09/2026",
   "sizeMb": "37.3 MB",
-  "changelog": "• Vá lỗi giọng nói\n• Cập nhật ghi chú nút Tiện ích",
+  "changelog": "• Giọng nói: nghe giống Geely Connect (Google mặc định, tiếng vi). Ảnh còn chữ Máy nghe là bản cũ — cài lại APK (cùng số 1.2.9 nên OTA không tự mời). Thiếu gms thì báo rõ; microG YouTube không đủ.\n• Ghi chú nút Tiện ích: chỉ mô tả việc nút làm, không so với app khác.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.9/EX2VNControl_v1.2.9.apk",
   "isMandatory": false
 }

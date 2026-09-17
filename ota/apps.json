@@ -73,7 +73,7 @@
       "name": "Ứng dụng Google (Ra lệnh giọng nói)",
       "packageName": "com.google.android.googlequicksearchbox",
       "category": "Tiện Ích",
-      "description": "Phần NGHE của ra lệnh giọng nói tiếng Việt. Thiếu app này thì bấm giọng nói sẽ báo không nghe được, dù đã cài Google TTS. Cần cài kèm microG.",
+      "description": "Phần NGHE của ra lệnh giọng nói tiếng Việt. Thiếu app này thì bấm giọng nói sẽ báo không nghe được, dù đã cài Google TTS. Cần dịch vụ Google gms (com.google.android.gms). microG YouTube trong kho không đủ.",
       "version": "v10.99.8.21",
       "sizeMb": "118 MB",
       "iconEmoji": "🎤",
