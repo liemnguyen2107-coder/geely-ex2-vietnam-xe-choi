@@ -1,10 +1,10 @@
 {
-  "versionCode": 23,
+  "versionCode": 24,
   "versionName": "v1.2.9",
-  "patch": 2,
+  "patch": 3,
   "releaseDate": "17/09/2026",
-  "sizeMb": "37.3 MB",
-  "changelog": "• Vá lỗi giọng nói\n• Cập nhật kho: Dịch vụ Google (gms) để nghe lệnh",
+  "sizeMb": "36.8 MB",
+  "changelog": "• Nhiệt độ số: nét chữ cùng số quạt trên thanh điều hòa.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.9/EX2VNControl_v1.2.9.apk",
   "isMandatory": false
 }
