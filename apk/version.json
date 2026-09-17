@@ -1,9 +1,10 @@
 {
-  "versionCode": 21,
+  "versionCode": 22,
   "versionName": "v1.2.9",
+  "patch": 1,
   "releaseDate": "17/09/2026",
-  "sizeMb": "37.0 MB",
-  "changelog": "• Giọng nói: bật lại Google nếu bản trước tắt icon (cùng process bộ nghe); hiện máy nghe khi lỗi. Cần Wi‑Fi ra Internet.\n• Camera hành trình (DualDashcam): giao diện tiếng Việt, bỏ ghi/lưu video.\n• Nhiệt độ số: số ‹ ° › ngay ô đồ họa giữa hai mũi trên thanh điều hòa (không reload SystemUI rồi vẫn đồ họa).\n• Sửa xe khách: nghe Google giống Connect; không tắt icon Google. Cần Wi‑Fi Internet + microG; đừng mở icon Google.\n• Chia màn: nút Tắt chia / Đổi App tách khỏi % pin trên thanh bar.",
+  "sizeMb": "36.8 MB",
+  "changelog": "• Vá nhỏ: xe mời cập nhật cả khi vẫn là 1.2.9 — không cần lên 1.3.0.\n• Giọng nói: bật lại Google nếu bản trước tắt icon (cùng process bộ nghe); hiện máy nghe khi lỗi. Cần Wi‑Fi ra Internet.\n• Camera hành trình (DualDashcam): giao diện tiếng Việt, bỏ ghi/lưu video.\n• Nhiệt độ số: số ‹ ° › ngay ô đồ họa giữa hai mũi trên thanh điều hòa (không reload SystemUI rồi vẫn đồ họa).\n• Sửa xe khách: nghe Google giống Connect; không tắt icon Google. Cần Wi‑Fi Internet + microG; đừng mở icon Google.\n• Chia màn: nút Tắt chia / Đổi App tách khỏi % pin trên thanh bar.",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.9/EX2VNControl_v1.2.9.apk",
   "isMandatory": false
 }
