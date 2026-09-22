@@ -1,10 +1,10 @@
 {
-  "versionCode": 27,
+  "versionCode": 28,
   "versionName": "v1.2.9",
-  "patch": 6,
-  "releaseDate": "17/09/2026",
+  "patch": 7,
+  "releaseDate": "22/09/2026",
   "sizeMb": "36.8 MB",
-  "changelog": "• Nhiệt độ số: ẩn khi xem video full màn, hiện lại khi có thanh điều hòa.",
+  "changelog": "• Cập nhật kho ứng dụng xe",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.9/EX2VNControl_v1.2.9.apk",
   "isMandatory": false
 }
