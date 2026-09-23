@@ -1,10 +1,10 @@
 {
-  "versionCode": 46,
+  "versionCode": 47,
   "versionName": "v1.2.9",
-  "patch": 25,
+  "patch": 26,
   "releaseDate": "24/09/2026",
   "sizeMb": "37.5 MB",
-  "changelog": "• Cập nhật nghe tiếng Anh trong câu tiếng Việt",
+  "changelog": "• Vá lỗi camera hành trình khi chạy trên 30 km/h",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.2.9/EX2VNControl_v1.2.9.apk",
   "isMandatory": false
 }
