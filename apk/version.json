@@ -1,10 +1,10 @@
 {
-  "versionCode": 48,
+  "versionCode": 49,
   "versionName": "v1.3.0",
-  "patch": 1,
-  "releaseDate": "24/09/2026",
+  "patch": 2,
+  "releaseDate": "25/09/2026",
   "sizeMb": "37.5 MB",
-  "changelog": "• Cập nhật camera hành trình\n• Cập nhật nhiệt độ số trên thanh điều hòa\n• Vá lỗi giọng nói\n• Cập nhật thanh ra lệnh giọng nói\n• Cập nhật giọng nói tiếng Anh\n• Cập nhật nghe tiếng Anh trong câu tiếng Việt\n• Vá lỗi dẫn đường tiếng Anh\n• Vá lỗi dẫn đường Lynk and Co\n• Vá lỗi nghe Lynk and Co\n• Cập nhật hướng dẫn câu nói\n• Cập nhật kho ứng dụng xe\n• Vá lỗi YouTube, YouTube Music và app chạy ngầm\n• Cập nhật icon EX2 VN Control và Hành trình\n• Cập nhật tên ứng dụng\n• Cập nhật gửi ảnh vào kho hình xe\n• Cập nhật gửi link Google Maps từ điện thoại\n• Cập nhật nút nổi\n• Cập nhật chia màn\n• Cập nhật giới hạn sạc\n• Cập nhật báo Telegram khi sạc và khi quên tắt máy\n• Vá lỗi camera hành trình khi chạy trên 30 km/h",
+  "changelog": "• Cập nhật giới hạn sạc 100%",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.3.0/EX2VNControl_v1.3.0.apk",
   "isMandatory": false
 }
