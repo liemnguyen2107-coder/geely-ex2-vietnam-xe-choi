@@ -1,10 +1,10 @@
 {
-  "versionCode": 55,
+  "versionCode": 56,
   "versionName": "v1.3.0",
-  "patch": 8,
+  "patch": 9,
   "releaseDate": "27/09/2026",
   "sizeMb": "37.5 MB",
-  "changelog": "• Cập nhật nhớ chế độ lái, phanh tái tạo và điều hòa khi tắt máy",
+  "changelog": "• Cập nhật không tắt app khi thu xuống",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.3.0/EX2VNControl_v1.3.0.apk",
   "isMandatory": false
 }
