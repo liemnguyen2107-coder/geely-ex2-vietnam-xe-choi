@@ -3,8 +3,8 @@
   "versionName": "v1.3.0",
   "patch": 17,
   "releaseDate": "28/09/2026",
-  "sizeMb": "37.6 MB",
-  "changelog": "• Gỡ launcher xe",
+  "sizeMb": "37.9 MB",
+  "changelog": "• Cập nhật nhớ thông số khi tắt máy",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.3.0/EX2VNControl_v1.3.0.apk",
   "isMandatory": false
 }
