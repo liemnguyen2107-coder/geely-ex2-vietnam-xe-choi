@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚗 VietControl — Geely EX2 Việt Nam
+# 🚗 EX2 VN Control
 
 **Ứng dụng điều khiển xe, kho app giải trí và tiện ích dành riêng cho Geely EX2 (bản Việt Nam).**
 
@@ -10,7 +10,7 @@ Thực hiện bởi **Xe Chơi** · 💬 [Tham gia nhóm Zalo](https://zalo.me/g
 ![Version](https://img.shields.io/badge/version-1.3.0-blue)
 ![Language](https://img.shields.io/badge/ng%C3%B4n%20ng%E1%BB%AF-Ti%E1%BA%BFng%20Vi%E1%BB%87t-red)
 
-<img src="docs/images/main-light.png" width="720" alt="Màn hình chính VietControl trên Geely EX2">
+<img src="docs/images/main-light.png" width="720" alt="Màn hình chính EX2 VN Control trên Geely EX2">
 
 </div>
 
@@ -21,7 +21,7 @@ Thực hiện bởi **Xe Chơi** · 💬 [Tham gia nhóm Zalo](https://zalo.me/g
 1. [Chuẩn bị](#-1-chuẩn-bị)
 2. [Bật ADB trên xe](#-2-bật-adb-trên-xe)
 3. [Kết nối ADB từ máy tính](#-3-kết-nối-adb-từ-máy-tính)
-4. [Cài app điều khiển VietControl](#-4-cài-app-điều-khiển-vietcontrol)
+4. [Cài app điều khiển EX2 VN Control](#-4-cài-app-ex2-vn-control)
 5. [Cài app giải trí và tiện ích](#-5-cài-app-giải-trí-và-tiện-ích)
 6. [Tính năng đang chạy](#-6-tính-năng-đang-chạy)
 7. [Cập nhật bản mới (OTA)](#-7-cập-nhật-bản-mới-ota)
@@ -96,9 +96,9 @@ Nếu máy hiện `unauthorized`, xem [Xử lý lỗi](#-8-xử-lý-lỗi-thư�
 
 ---
 
-## 📲 4. Cài app điều khiển VietControl
+## 📲 4. Cài app điều khiển EX2 VN Control
 
-1. Vào [**Releases**](../../releases) và tải file APK mới nhất của VietControl (`EX2VNControl_v1.3.0.apk`).
+1. Vào [**Releases**](../../releases) và tải file APK mới nhất của EX2 VN Control (`EX2VNControl_v1.3.0.apk`).
 2. Cài lên xe:
 
 ```bash
@@ -107,14 +107,14 @@ adb install -r -g EX2VNControl_v1.3.0.apk
 
 > `-r` cài đè bản cũ, `-g` cấp sẵn các quyền cần thiết.
 
-3. Mở app **VietControl** trên màn xe, làm theo màn hướng dẫn ban đầu (cấp quyền, kích hoạt key nếu có).
+3. Mở app **EX2 VN Control** trên màn xe, làm theo màn hướng dẫn ban đầu (cấp quyền, kích hoạt key nếu có).
 4. Muốn dùng giọng nói tiếng Việt: xem mục [Ra lệnh giọng nói](#-ra-lệnh-giọng-nói).
 
 ---
 
 ## 🎬 5. Cài app giải trí và tiện ích
 
-Tất cả app nằm ở release [`v1.0.0-apps`](https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/tag/v1.0.0-apps). Bạn có thể cài **thủ công bằng ADB** như dưới đây, hoặc mở **Kho app** ngay trong VietControl để cài bằng vài chạm.
+Tất cả app nằm ở release [`v1.0.0-apps`](https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/tag/v1.0.0-apps). Bạn có thể cài **thủ công bằng ADB** như dưới đây, hoặc mở **Kho app** ngay trong EX2 VN Control để cài bằng vài chạm.
 
 ### Danh sách app
 
@@ -168,7 +168,7 @@ Repo có sẵn script hỗ trợ: [`tools/xapk_to_apk.py`](tools/xapk_to_apk.py)
 
 - **YouTube / YT Music:** mở **microG** trước, đăng nhập tài khoản Google, rồi mới mở YouTube.
 - **Vietmap:** vào Cài đặt xe → *Chuyển văn bản thành giọng nói* → chọn **Google** để có giọng đọc tiếng Việt.
-- Có thể ghim 3 app hay dùng vào **3 ô mở app nhanh** trong VietControl (giữ ô để đổi app).
+- Có thể ghim 3 app hay dùng vào **3 ô mở app nhanh** trong EX2 VN Control (giữ ô để đổi app).
 
 ---
 
@@ -224,7 +224,7 @@ Danh sách dưới đây lấy trực tiếp từ danh mục tính năng trong a
 ### 🧩 Kho app và hệ thống
 
 - **Kho app** cài thẳng lên xe, có giọng đọc tiếng Việt
-- Ẩn các app hỗ trợ khỏi ngăn app của xe; giữ lại VietControl, Hành trình, microG, giải trí và chỉ đường
+- Ẩn các app hỗ trợ khỏi ngăn app của xe; giữ lại EX2 VN Control, Hành trình, microG, giải trí và chỉ đường
 - Tự bắt Wi‑Fi
 - Tắt app khi khóa màn để tiết kiệm tài nguyên
 - Giữ app không bị xe tự tắt khi thu xuống nền
@@ -235,7 +235,7 @@ Danh sách dưới đây lấy trực tiếp từ danh mục tính năng trong a
 
 ## 🔄 7. Cập nhật bản mới (OTA)
 
-- Trong app: mở **Cài đặt VietControl → Kiểm tra cập nhật**. App đọc `version.json` trên GitHub và mời cập nhật khi có bản mới hoặc bản vá.
+- Trong app: mở **Cài đặt EX2 VN Control → Kiểm tra cập nhật**. App đọc `version.json` trên GitHub và mời cập nhật khi có bản mới hoặc bản vá.
 - Thủ công: tải APK mới ở [Releases](../../releases) rồi chạy lại `adb install -r -g <file>.apk`.
 
 ---
@@ -249,7 +249,7 @@ Danh sách dưới đây lấy trực tiếp từ danh mục tính năng trong a
 | `device unauthorized` | Nhìn màn xe, bấm **Cho phép**. Nếu không hiện: `adb kill-server` rồi `adb connect …` lại |
 | `INSTALL_FAILED_UPDATE_INCOMPATIBLE` | Gỡ bản cũ: `adb uninstall <package>` rồi cài lại |
 | `INSTALL_FAILED_NO_MATCHING_ABIS` | File APK sai kiến trúc CPU. Tải bản `arm64` |
-| `INSTALL_FAILED_INSUFFICIENT_STORAGE` | Hết bộ nhớ. Gỡ bớt app hoặc dọn app trong VietControl |
+| `INSTALL_FAILED_INSUFFICIENT_STORAGE` | Hết bộ nhớ. Gỡ bớt app hoặc dọn app trong EX2 VN Control |
 | YouTube báo lỗi đăng nhập | Cài và đăng nhập **microG** trước |
 | Vietmap không đọc tiếng Việt | Cài **Google Text‑to‑Speech** và chọn làm trình đọc mặc định |
 
@@ -266,6 +266,8 @@ Danh sách dưới đây lấy trực tiếp từ danh mục tính năng trong a
 
 <div align="center">
 
-Made with ❤️ cho cộng đồng Geely EX2 Việt Nam
+Thực hiện bởi **Xe Chơi**
+
+💬 [Tham gia nhóm Zalo Xe Chơi]()
 
 </div>
