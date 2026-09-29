@@ -4,6 +4,8 @@
 
 **Ứng dụng điều khiển xe, kho app giải trí và tiện ích dành riêng cho Geely EX2 (bản Việt Nam).**
 
+Thực hiện bởi **Xe Chơi** · 💬 [Tham gia nhóm Zalo](https://zalo.me/g/duikjiadpf81hpdi1r5x)
+
 ![Android 9](https://img.shields.io/badge/Android-9%20(IHU)-3DDC84?logo=android&logoColor=white)
 ![Version](https://img.shields.io/badge/version-1.3.0-blue)
 ![Language](https://img.shields.io/badge/ng%C3%B4n%20ng%E1%BB%AF-Ti%E1%BA%BFng%20Vi%E1%BB%87t-red)
