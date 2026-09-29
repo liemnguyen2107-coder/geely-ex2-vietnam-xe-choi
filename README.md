@@ -268,6 +268,6 @@ Danh sách dưới đây lấy trực tiếp từ danh mục tính năng trong a
 
 Thực hiện bởi **Xe Chơi**
 
-💬 [Tham gia nhóm Zalo Xe Chơi]()
+💬 [Tham gia nhóm Zalo Xe Chơi](https://zalo.me/g/duikjiadpf81hpdi1r5x)
 
 </div>
