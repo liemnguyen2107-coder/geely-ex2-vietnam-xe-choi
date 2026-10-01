@@ -7,7 +7,7 @@
 Thực hiện bởi **Xe Chơi** · 💬 [Tham gia nhóm Zalo](https://zalo.me/g/duikjiadpf81hpdi1r5x)
 
 ![Android 9](https://img.shields.io/badge/Android-9%20(IHU)-3DDC84?logo=android&logoColor=white)
-![Version](https://img.shields.io/badge/version-1.3.0-blue)
+![Version](https://img.shields.io/badge/version-1.3.1-blue)
 ![Language](https://img.shields.io/badge/ng%C3%B4n%20ng%E1%BB%AF-Ti%E1%BA%BFng%20Vi%E1%BB%87t-red)
 
 <img src="docs/images/main-light.png" width="720" alt="Màn hình chính EX2 VN Control trên Geely EX2">
@@ -184,11 +184,11 @@ Nếu báo `unauthorized` hay không kết nối được, xem [Xử lý lỗi](
 
 ## 📲 4. Cài app điều khiển EX2 VN Control
 
-1. Vào [**Releases**](../../releases) và tải file APK mới nhất của EX2 VN Control (`EX2VNControl_v1.3.0.apk`).
+1. Vào [**Releases**](../../releases) và tải file APK mới nhất của EX2 VN Control (`EX2VNControl_v1.3.1.apk`).
 2. Cài lên xe:
 
 ```bash
-adb install -r -g EX2VNControl_v1.3.0.apk
+adb install -r -g EX2VNControl_v1.3.1.apk
 ```
 
 > `-r` cài đè bản cũ, `-g` cấp sẵn các quyền cần thiết.
@@ -260,7 +260,7 @@ Repo có sẵn script hỗ trợ: [`tools/xapk_to_apk.py`](tools/xapk_to_apk.py)
 
 ## ✨ 6. Tính năng đang chạy
 
-Danh sách dưới đây lấy trực tiếp từ danh mục tính năng trong app (`PaidFeatureCatalog`), phiên bản **1.3.0**.
+Danh sách dưới đây lấy trực tiếp từ danh mục tính năng trong app (`PaidFeatureCatalog`), phiên bản **1.3.1**.
 
 ### 🚘 Điều khiển xe
 
@@ -269,7 +269,7 @@ Danh sách dưới đây lấy trực tiếp từ danh mục tính năng trong a
 - Hạ, lên, hé kính từng cửa hoặc cả bốn cửa
 - Chế độ lái **Êm / Thoải mái / Sport**, nhớ khi tắt máy
 - Phanh tái tạo **nhẹ / vừa / mạnh**, nhớ khi tắt máy
-- Điều hòa: nhiệt độ, quạt, hướng gió, sấy kính
+- Điều hòa: nhiệt độ, quạt, hướng gió, gió trong / gió ngoài, sấy kính
 - Nhiệt độ số hiển thị trên thanh điều hòa của xe
 - Hiển thị áp suất lốp (TPMS)
 - Tắt tiếng và đổi tiếng cảnh báo người đi bộ (AVAS)
@@ -278,14 +278,14 @@ Danh sách dưới đây lấy trực tiếp từ danh mục tính năng trong a
 ### 🔋 Năng lượng và hành trình
 
 - Pin, số km, tầm đi, trạng thái sạc và giới hạn sạc
-- **Hành trình:** km, kWh, lộ trình GPS bám đường bản đồ
+- **Hành trình:** km, kWh, lộ trình GPS bám đường bản đồ, xem theo 7 ngày / 30 ngày / 3 tháng
 - **Sổ sạc:** ghi kWh, AC/DC và tiền điện mỗi lần cắm sạc
 - **Trụ sạc gần bạn:** tìm trụ trong 20 km (EV HUB), lọc theo hãng đã nạp tiền
 - Hiện **% pin** trên thanh trạng thái cạnh biểu tượng Wi‑Fi
 
 ### 🎙️ Ra lệnh giọng nói
 
-- Ra lệnh **tiếng Việt và tiếng Anh** qua Google (cần Wi‑Fi và dịch vụ Google)
+- Ra lệnh **tiếng Việt và tiếng Anh** qua Google (cần Wi‑Fi và dịch vụ Google), hiểu câu nói tự nhiên, phản hồi nhanh
 - Mở bằng **phím thoại trên vô lăng**, có sóng âm trên thanh bar và tiếng "ting" khi sẵn sàng nghe
 - **Gán phím mũi tên vô lăng:** chuyển bài, chế độ lái, phanh tái sinh, quạt (chuyển bài cả trên YouTube / YT Music)
 
@@ -314,7 +314,6 @@ Danh sách dưới đây lấy trực tiếp từ danh mục tính năng trong a
 - Tự bắt Wi‑Fi
 - Tắt app khi khóa màn để tiết kiệm tài nguyên
 - Giữ app không bị xe tự tắt khi thu xuống nền
-- **Chế độ bảo dưỡng:** giấu tính năng khi đưa xe vào xưởng
 - **OTA:** nhận bản mới trực tiếp trên xe
 
 ---
