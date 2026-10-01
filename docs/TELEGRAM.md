@@ -2,7 +2,7 @@
 
 **EX2 VN Control** · Thực hiện bởi **Xe Chơi** · 💬 [Tham gia nhóm Zalo](https://zalo.me/g/duikjiadpf81hpdi1r5x)
 
-[← Về trang chính](../README.md)
+[🏠 Trang chính](../README.md) · [📲 Mở ADB](ADB.md) · [⬇️ Cài app](CAI-APP.md) · [🎬 App giải trí](APP-GIAI-TRI.md) · [✨ Tính năng](TINH-NANG.md) · [🤖 Telegram](TELEGRAM.md) · [🛠️ Lỗi thường gặp](LOI-THUONG-GAP.md)
 
 ---
 
@@ -28,7 +28,7 @@ Ngoài ra xe **tự nhắn cho bạn** khi:
 
 ## 🧰 Chuẩn bị
 
-- Đã cài **EX2 VN Control** và kích hoạt key (xem [hướng dẫn cài đặt](../README.md))
+- Đã cài **EX2 VN Control** và kích hoạt key (xem [hướng dẫn cài đặt](ADB.md))
 - Điện thoại có **Telegram**
 - Màn hình xe **có Wi‑Fi ra internet** (xe cần mạng mới gửi và nhận được tin)
 
@@ -132,7 +132,7 @@ Xe sao rồi · Pin bao nhiêu phần trăm · Còn đi được bao nhiêu km �
 
 | Hiện tượng | Cách xử lý |
 |---|---|
-| Màn hình xe báo **"Chưa gắn bot"** | Bản app này chưa được cấu hình bot Telegram. Cài bản mới nhất ở [Releases](../../../releases) |
+| Màn hình xe báo **"Chưa gắn bot"** | Bản app này chưa được cấu hình bot Telegram. Cài bản mới nhất ở [Releases](https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases) |
 | Quét mã nhưng không ghép được | Kiểm tra xe có Wi‑Fi ra internet, công tắc **Thông báo điện thoại** đã bật, rồi quét lại |
 | Bot không trả lời | Xe đang tắt, xe mất Wi‑Fi hoặc công tắc đang tắt. Thử **Gửi tin thử** trên màn xe |
 | Bot nói "chưa hiểu lệnh" | Nói rõ hơn hoặc gõ `/help`, hoặc bấm nút trong `/menu` |
