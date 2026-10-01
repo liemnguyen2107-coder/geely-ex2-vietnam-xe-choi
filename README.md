@@ -305,7 +305,7 @@ Danh sách dưới đây lấy trực tiếp từ danh mục tính năng trong a
 
 - Gửi **ảnh** từ điện thoại sang kho hình của xe (JPG, PNG, HEIF) qua mã QR
 - Gửi **link Google Maps** từ điện thoại, xe tự dẫn đường tới địa điểm
-- Báo qua **Telegram** khi bắt đầu / kết thúc sạc và khi quên tắt máy
+- 📲 **Điều khiển xe qua Telegram:** hỏi pin, bật điều hòa, khóa cửa, tìm xe, gửi điểm đến, nhận báo sạc và nhắc quên tắt máy. [Xem hướng dẫn chi tiết →](docs/TELEGRAM.md)
 
 ### 🧩 Kho app và hệ thống
 
