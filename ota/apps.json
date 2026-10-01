@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-10-01",
-  "storeVersion": "1.0.16",
+  "storeVersion": "1.0.17",
   "apps": [
     {
       "id": "vietmap",
@@ -12,6 +12,17 @@
       "sizeMb": "161 MB",
       "iconEmoji": "🗺️",
       "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Vietmap_Live_v3.4.0.xapk"
+    },
+    {
+      "id": "vietmap341test",
+      "name": "Vietmap Live 3.4.1 (thử nghiệm)",
+      "packageName": "vn.vietmap.live",
+      "category": "Dẫn Đường",
+      "description": "Bản thử nghiệm 3.4.1 (APK gộp arm64) để kiểm tra cài trên xe. Có thể cần gỡ bản cũ trước.",
+      "version": "v3.4.1",
+      "sizeMb": "230 MB",
+      "iconEmoji": "🧪",
+      "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.0.0-apps/Vietmap_Live_v3.4.1.apk"
     },
     {
       "id": "gmaps",
