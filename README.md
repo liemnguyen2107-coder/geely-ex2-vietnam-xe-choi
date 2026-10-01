@@ -6,6 +6,8 @@
 
 Thực hiện bởi **Xe Chơi** · 💬 [Tham gia nhóm Zalo](https://zalo.me/g/duikjiadpf81hpdi1r5x)
 
+🌐 [English](README.en.md) · **Tiếng Việt**
+
 ![Android 9](https://img.shields.io/badge/Android-9%20(IHU)-3DDC84?logo=android&logoColor=white)
 ![Version](https://img.shields.io/badge/version-1.3.1-blue)
 ![Language](https://img.shields.io/badge/ng%C3%B4n%20ng%E1%BB%AF-Ti%E1%BA%BFng%20Vi%E1%BB%87t-red)
