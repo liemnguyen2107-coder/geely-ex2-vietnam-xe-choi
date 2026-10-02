@@ -1,10 +1,10 @@
 {
-  "versionCode": 69,
+  "versionCode": 70,
   "versionName": "v1.3.1",
-  "patch": 5,
+  "patch": 6,
   "releaseDate": "02/10/2026",
   "sizeMb": "33.9 MB",
-  "changelog": "• Cập nhật giọng nói: xe chào rồi nghe lệnh ngay, bỏ tiếng ting",
+  "changelog": "• Kho ứng dụng gọn hơn: chỉ hiện tên và chức năng, giữ dung lượng\n• Thanh % tải rõ ràng hơn\n• Thêm YouTube Morphe bản thử nghiệm, nâng Waze và Google Maps",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.3.1/EX2VNControl_v1.3.1.apk",
   "isMandatory": false
 }
