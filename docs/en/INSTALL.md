@@ -6,11 +6,11 @@
 
 ## 📲 Install the EX2 VN Control app
 
-1. Go to [**Releases**](https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases) and download the latest EX2 VN Control APK (`EX2VNControl_v1.3.1.apk`).
+1. Go to [**Releases**](https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases) and download the latest EX2 VN Control APK (`EX2VNControl_v1.3.2.apk`).
 2. Install it on the car:
 
 ```bash
-adb install -r -g EX2VNControl_v1.3.1.apk
+adb install -r -g EX2VNControl_v1.3.2.apk
 ```
 
 > `-r` reinstalls over the old version, `-g` grants the required permissions automatically.

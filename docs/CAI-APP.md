@@ -6,11 +6,11 @@
 
 ## 📲 Cài app điều khiển EX2 VN Control
 
-1. Vào [**Releases**](https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases) và tải file APK mới nhất của EX2 VN Control (`EX2VNControl_v1.3.1.apk`).
+1. Vào [**Releases**](https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases) và tải file APK mới nhất của EX2 VN Control (`EX2VNControl_v1.3.2.apk`).
 2. Cài lên xe:
 
 ```bash
-adb install -r -g EX2VNControl_v1.3.1.apk
+adb install -r -g EX2VNControl_v1.3.2.apk
 ```
 
 > `-r` cài đè bản cũ, `-g` cấp sẵn các quyền cần thiết.

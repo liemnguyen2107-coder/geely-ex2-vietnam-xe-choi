@@ -6,7 +6,7 @@
 
 ## ✨ Tính năng đang chạy
 
-Danh sách dưới đây lấy trực tiếp từ danh mục tính năng trong app (`PaidFeatureCatalog`), phiên bản **1.3.1**.
+Danh sách dưới đây lấy trực tiếp từ danh mục tính năng trong app (`PaidFeatureCatalog`), phiên bản **1.3.2**.
 
 ### 🚘 Điều khiển xe
 
@@ -44,7 +44,7 @@ Danh sách dưới đây lấy trực tiếp từ danh mục tính năng trong a
 - Chỉnh độ sáng màn ban ngày / ban đêm
 - Tự tối màn khi nghỉ, nhạc vẫn chạy
 - Giao diện **sáng / tối** theo chế độ ngày đêm của xe
-- **Camera góc khi rẽ:** hiện bên trái / phải theo xi nhan
+- **Camera gương khi rẽ:** hiện bên trái / phải theo xi nhan, chỉ phần bánh sau
 - Camera lùi nền tối, đỡ chói ban đêm *(bản Pro)*
 
 ### 📱 Kết nối điện thoại

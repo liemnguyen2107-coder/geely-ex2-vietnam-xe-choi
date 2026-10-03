@@ -9,7 +9,7 @@ Made by **Xe Chơi** · 💬 [Join our Zalo group](https://zalo.me/g/duikjiadpf8
 🌐 **English** · [Tiếng Việt](README.md)
 
 ![Android 9](https://img.shields.io/badge/Android-9%20(IHU)-3DDC84?logo=android&logoColor=white)
-![Version](https://img.shields.io/badge/version-1.3.1-blue)
+![Version](https://img.shields.io/badge/version-1.3.2-blue)
 ![Language](https://img.shields.io/badge/UI-Vietnamese-red)
 
 <img src="docs/images/main-light.png" width="720" alt="EX2 VN Control home screen on the Geely EX2">

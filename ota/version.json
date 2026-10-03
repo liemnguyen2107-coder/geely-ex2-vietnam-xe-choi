@@ -1,10 +1,10 @@
 {
-  "versionCode": 74,
-  "versionName": "v1.3.1",
-  "patch": 10,
+  "versionCode": 75,
+  "versionName": "v1.3.2",
+  "patch": 1,
   "releaseDate": "03/10/2026",
-  "sizeMb": "37.8 MB",
-  "changelog": "• Cập nhật hành trình: thẻ chuyến đi rõ hơn, hiện cả chuyến đang chạy\n• Cập nhật nút nổi: bật/tắt nút cốp\n• Cập nhật Google Maps thấy tài khoản Google đã đăng nhập",
-  "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.3.1/EX2VNControl_v1.3.1.apk",
+  "sizeMb": "37.9 MB",
+  "changelog": "• Cập nhật camera gương khi rẽ: xem rõ bánh sau\n• Cập nhật tốc độ trên nút nổi mượt, bám đồng hồ xe\n• Cập nhật nút nổi: không lệch vị trí sau khi khởi động xe, bật/tắt nút cốp\n• Cập nhật hành trình: thẻ chuyến đi rõ hơn, hiện cả chuyến đang chạy\n• Cập nhật kho app: gọn hơn, thanh tải rõ hơn, nâng Waze, Google Maps, YouTube Morphe\n• Cập nhật giọng nói: xe chào rồi nghe lệnh ngay\n• Cập nhật thông báo cập nhật mỗi lần mở app\n• Cập nhật Google Maps thấy tài khoản Google đã đăng nhập\n• Cập nhật mức tiêu thụ ước tính chính xác hơn\n• Vá lỗi hướng gió điều hòa và sấy kính\n• Vá lỗi xe tự tắt app đang giữ nền",
+  "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.3.2/EX2VNControl_v1.3.2.apk",
   "isMandatory": false
 }

@@ -4,7 +4,7 @@
 
 ---
 
-The list below comes straight from the app's feature catalog (`PaidFeatureCatalog`), version **1.3.1**.
+The list below comes straight from the app's feature catalog (`PaidFeatureCatalog`), version **1.3.2**.
 
 ### 🚘 Vehicle control
 
@@ -42,7 +42,7 @@ The list below comes straight from the app's feature catalog (`PaidFeatureCatalo
 - Screen brightness for day and night
 - Auto-dim the screen when idle while music keeps playing
 - **Light / dark** interface following the car's day-night mode
-- **Corner camera on turns:** shows left / right according to the turn signal
+- **Mirror camera on turns:** shows the left / right side camera according to the turn signal, rear wheel area only
 - Dark-background reverse camera, less glare at night *(Pro version)*
 
 ### 📱 Phone connection
