@@ -3,8 +3,8 @@
   "versionName": "v1.3.1",
   "patch": 8,
   "releaseDate": "03/10/2026",
-  "sizeMb": "37.8 MB",
-  "changelog": "• Vá lỗi nút nổi lệch vị trí sau khi khởi động xe\n• Vá lỗi xe tự tắt app đang giữ nền\n• Cập nhật mức tiêu thụ ước tính chính xác hơn\n• Cập nhật kho app",
+  "sizeMb": "34.0 MB",
+  "changelog": "• Kho ứng dụng: hiện Cập nhật khi cần quay về bản cũ ổn định hơn (Google Maps 11.152)",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.3.1/EX2VNControl_v1.3.1.apk",
   "isMandatory": false
 }
