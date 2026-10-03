@@ -1,10 +1,10 @@
 {
-  "versionCode": 71,
+  "versionCode": 72,
   "versionName": "v1.3.1",
-  "patch": 7,
+  "patch": 8,
   "releaseDate": "03/10/2026",
-  "sizeMb": "34.0 MB",
-  "changelog": "• Nút Mở/Đã cài màu xanh lá, dễ nhìn hơn; nút Đang tải màu xám\n• YouTube Morphe nâng lên 21.16.256 (cần xóa bản cũ để cài)",
+  "sizeMb": "37.8 MB",
+  "changelog": "• Vá lỗi nút nổi lệch vị trí sau khi khởi động xe\n• Vá lỗi xe tự tắt app đang giữ nền\n• Cập nhật mức tiêu thụ ước tính chính xác hơn\n• Cập nhật kho app",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.3.1/EX2VNControl_v1.3.1.apk",
   "isMandatory": false
 }
