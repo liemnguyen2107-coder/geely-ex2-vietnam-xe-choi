@@ -47,6 +47,16 @@ Made by **Xe Chơi** · 💬 [Join our Zalo group](https://zalo.me/g/duikjiadpf8
 
 👉 [See all features](docs/en/FEATURES.md)
 
+## 📸 Screenshots
+
+| Home screen | App Store |
+|:-:|:-:|
+| <img src="docs/images/main-light.png" alt="Home screen"> | <img src="docs/images/screen-store.png" alt="App Store"> |
+| **Utilities (Tools)** | **Trips & Charge journal** |
+| <img src="docs/images/screen-tools.png" alt="Utilities"> | <img src="docs/images/screen-trips.png" alt="Trips and charge journal"> |
+
+> The app interface is in Vietnamese.
+
 ---
 
 ## ⚠️ Notes

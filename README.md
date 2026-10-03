@@ -47,6 +47,14 @@ Thực hiện bởi **Xe Chơi** · 💬 [Tham gia nhóm Zalo](https://zalo.me/g
 
 👉 [Xem toàn bộ tính năng](docs/TINH-NANG.md)
 
+## 📸 Hình ảnh
+
+| Màn hình chính | Kho ứng dụng |
+|:-:|:-:|
+| <img src="docs/images/main-light.png" alt="Màn hình chính"> | <img src="docs/images/screen-store.png" alt="Kho ứng dụng"> |
+| **Tiện ích** | **Hành trình & Sổ sạc** |
+| <img src="docs/images/screen-tools.png" alt="Tiện ích"> | <img src="docs/images/screen-trips.png" alt="Hành trình và Sổ sạc"> |
+
 ---
 
 ## ⚠️ Lưu ý
