@@ -1,10 +1,10 @@
 {
-  "versionCode": 72,
+  "versionCode": 73,
   "versionName": "v1.3.1",
-  "patch": 8,
+  "patch": 9,
   "releaseDate": "03/10/2026",
   "sizeMb": "34.0 MB",
-  "changelog": "• Kho ứng dụng: hiện Cập nhật khi cần quay về bản cũ ổn định hơn (Google Maps 11.152)",
+  "changelog": "• Cho Google Maps thấy tài khoản Google đã đăng nhập qua microG",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.3.1/EX2VNControl_v1.3.1.apk",
   "isMandatory": false
 }
