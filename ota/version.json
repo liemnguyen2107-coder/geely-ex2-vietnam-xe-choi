@@ -1,10 +1,10 @@
 {
-  "versionCode": 70,
+  "versionCode": 71,
   "versionName": "v1.3.1",
-  "patch": 6,
-  "releaseDate": "02/10/2026",
-  "sizeMb": "33.9 MB",
-  "changelog": "• Kho ứng dụng gọn hơn: chỉ hiện tên và chức năng, giữ dung lượng\n• Thanh % tải rõ ràng hơn\n• Thêm YouTube Morphe bản thử nghiệm, nâng Waze và Google Maps",
+  "patch": 7,
+  "releaseDate": "03/10/2026",
+  "sizeMb": "34.0 MB",
+  "changelog": "• Nút Mở/Đã cài màu xanh lá, dễ nhìn hơn; nút Đang tải màu xám\n• YouTube Morphe nâng lên 21.16.256 (cần xóa bản cũ để cài)",
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.3.1/EX2VNControl_v1.3.1.apk",
   "isMandatory": false
 }
