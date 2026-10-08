@@ -1,6 +1,6 @@
 # ✨ Features
 
-[🏠 Home](../../README.en.md) · [📲 Enable ADB](ADB.md) · [⬇️ Install app](INSTALL.md) · [🎬 Entertainment apps](APPS.md) · [✨ Features](FEATURES.md) · [🤖 Telegram](TELEGRAM.md) · [🛠️ Troubleshooting](TROUBLESHOOTING.md) · 🌐 [Tiếng Việt](../TINH-NANG.md)
+[🏠 Home](../../README.en.md) · [✨ Features](FEATURES.md) · [🤖 Telegram](TELEGRAM.md) · 🌐 [Tiếng Việt](../TINH-NANG.md)
 
 ---
 

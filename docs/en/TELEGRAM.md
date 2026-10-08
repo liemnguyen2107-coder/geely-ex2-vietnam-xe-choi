@@ -1,6 +1,6 @@
 # 📲 Control your car via Telegram
 
-[🏠 Home](../../README.en.md) · [📲 Enable ADB](ADB.md) · [⬇️ Install app](INSTALL.md) · [🎬 Entertainment apps](APPS.md) · [✨ Features](FEATURES.md) · [🤖 Telegram](TELEGRAM.md) · [🛠️ Troubleshooting](TROUBLESHOOTING.md) · 🌐 [Tiếng Việt](../TELEGRAM.md)
+[🏠 Home](../../README.en.md) · [✨ Features](FEATURES.md) · [🤖 Telegram](TELEGRAM.md) · 🌐 [Tiếng Việt](../TELEGRAM.md)
 
 ---
 
@@ -28,7 +28,7 @@ The car also **messages you by itself** when:
 
 ## 🧰 Requirements
 
-- EX2 VN Control installed and your key activated (see the [setup guide](ADB.md))
+- EX2 VN Control installed and your key activated
 - Telegram on your phone
 - The car screen has **Wi‑Fi with internet** (the car needs internet to send and receive messages)
 
@@ -148,7 +148,7 @@ Type `/` in the bot to see the command list. Commands that take a number:
 
 | Symptom | Fix |
 |---|---|
-| Car screen says **"Chưa gắn bot"** (bot not set up) | This build has no Telegram bot configured. Install the latest version from [Releases](https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases) |
+| Car screen says **"Chưa gắn bot"** (bot not set up) | This build has no Telegram bot configured. Contact us on [Zalo](https://zalo.me/g/duikjiadpf81hpdi1r5x) to get the latest version |
 | Scanned the code but pairing fails | Check that the car has internet Wi‑Fi and the **Phone notifications** switch is on, then scan again |
 | Bot does not reply | The car is off, has lost Wi‑Fi, or the switch is off. Try **Send test message** on the car screen |
 | Bot says it did not understand | Be more specific, type `/help`, or tap a button from `/menu` |

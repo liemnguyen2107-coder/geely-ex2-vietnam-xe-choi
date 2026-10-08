@@ -4,7 +4,7 @@
 
 **A vehicle-control app, entertainment app store and utilities made for the Geely EX2 (Vietnam version).**
 
-Made by **Xe Chơi** · 💬 [Join our Zalo group](https://zalo.me/g/duikjiadpf81hpdi1r5x)
+Made by **Xe Chơi**
 
 🌐 **English** · [Tiếng Việt](README.md)
 
@@ -12,40 +12,33 @@ Made by **Xe Chơi** · 💬 [Join our Zalo group](https://zalo.me/g/duikjiadpf8
 ![Version](https://img.shields.io/badge/version-1.3.2-blue)
 ![Language](https://img.shields.io/badge/UI-Vietnamese-red)
 
-<img src="docs/images/main-light.png" width="720" alt="EX2 VN Control home screen on the Geely EX2">
+<img src="docs/images/main-light.png" width="760" alt="EX2 VN Control home screen on the Geely EX2">
+
+<br><br>
+
+### 💬 Want EX2 VN Control on your car?
+
+## 👉 [**CONTACT US ON ZALO FOR INSTALLATION HELP**](https://zalo.me/g/duikjiadpf81hpdi1r5x) 👈
+
+Join the Xe Chơi group for installation support, updates and to chat with other EX2 owners.
 
 </div>
 
 ---
 
-## 📚 Choose what you need
+## ✨ What does it do?
 
-| | Page | Contents |
-|:-:|---|---|
-| 📲 | [**How to enable ADB**](docs/en/ADB.md) | Hidden menu, install the patch from USB, get the IP and connect from a computer (one time) |
-| ⬇️ | [**Install EX2 VN Control**](docs/en/INSTALL.md) | Install the APK on the car and update to new versions (OTA) |
-| 🎬 | [**Entertainment apps and utilities**](docs/en/APPS.md) | YouTube, YT Music, Spotify, Vietmap, microG, Google TTS and install order |
-| ✨ | [**Features**](docs/en/FEATURES.md) | Everything the app does: vehicle control, energy, voice, interface… |
-| 🤖 | [**Control the car via Telegram**](docs/en/TELEGRAM.md) | Ask the car, turn on the A/C, lock the doors, find it remotely, get charging alerts |
-| 🛠️ | [**Troubleshooting**](docs/en/TROUBLESHOOTING.md) | Fixes for ADB, installation and Google sign-in problems |
+| | |
+|---|---|
+| 🚘 **Vehicle control** | Doors, front/rear trunk, each window, A/C, drive mode, regenerative braking, seat heating |
+| 🔋 **Energy & trips** | Battery, range, charge limit, **charge journal** (kWh, cost), nearby chargers, GPS trips |
+| 🎙️ **Vietnamese voice commands** | Start from the steering-wheel voice button, map the steering-wheel arrow keys |
+| 🤖 **Telegram control** | Ask the car, turn on the A/C before you walk out, lock the doors, find the car, get "charging finished" and "you left the car on" alerts |
+| 🖥️ **Interface** | Split screen, floating widget, 3 quick-launch slots, light/dark following day-night |
+| 🧩 **App Store** | Quickly install entertainment and navigation apps on the car, right inside the app |
+| 📲 **Phone connection** | Send photos and Google Maps links from your phone to the car |
 
-## 🚀 Quick start
-
-1. **Enable ADB** on the car → [follow the guide](docs/en/ADB.md)
-2. **Install** [EX2 VN Control](docs/en/INSTALL.md) from [Releases](https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases)
-3. **Install entertainment apps** (microG → YouTube → Spotify → Vietmap) → [see the list](docs/en/APPS.md)
-4. **Pair Telegram** to control the car remotely → [see how](docs/en/TELEGRAM.md)
-
-## ✨ Highlights
-
-- 🚘 Doors, trunk, windows, A/C, drive mode, regenerative braking
-- 🔋 Battery, range, charge journal, nearby chargers, GPS trips
-- 🎙️ Vietnamese voice commands, steering-wheel key mapping
-- 🖥️ Split screen, floating widget, 3 quick-launch slots, light/dark theme
-- 📲 Telegram control, send photos and Maps links from your phone
-- 🧩 App Store that installs straight onto the car
-
-👉 [See all features](docs/en/FEATURES.md)
+👉 [See all features](docs/en/FEATURES.md) · [Control the car via Telegram](docs/en/TELEGRAM.md)
 
 ## 📸 Screenshots
 
@@ -57,16 +50,20 @@ Made by **Xe Chơi** · 💬 [Join our Zalo group](https://zalo.me/g/duikjiadpf8
 
 > The app interface is in Vietnamese.
 
+## 🤝 How to get it on your car
+
+1. **Message us on Zalo** → [join the Xe Chơi group](https://zalo.me/g/duikjiadpf81hpdi1r5x)
+2. Get **step-by-step** help to open the connection and install the app on the car screen
+3. Use it and receive **updates** right on the car
+
+> The app runs on the **Geely EX2 (Android 9)** head unit. Installation instructions are sent privately over Zalo so they match your car's software version.
+
 ---
 
 ## ⚠️ Notes
 
-- This is an **unofficial** project, not affiliated with Geely. You install third-party apps on your car at your own risk.
+- This is an **unofficial** project, not affiliated with Geely.
 - Do not use controls (windows, trunk, drive mode…) while driving unless you are sure it is safe.
-- YouTube / YT Music (Morphe builds) and Spotify are third-party builds: use them for personal purposes only and respect the providers' copyright and terms.
-- Only download APKs from this repo's [Releases](https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases) to avoid fake files.
-
-> For maintainers publishing a new version: see [docs/OTA-DEV.md](docs/OTA-DEV.md).
 
 ---
 
@@ -74,6 +71,6 @@ Made by **Xe Chơi** · 💬 [Join our Zalo group](https://zalo.me/g/duikjiadpf8
 
 Made by **Xe Chơi**
 
-💬 [Join our Zalo group](https://zalo.me/g/duikjiadpf81hpdi1r5x)
+💬 [**Contact us on Zalo**](https://zalo.me/g/duikjiadpf81hpdi1r5x)
 
 </div>
