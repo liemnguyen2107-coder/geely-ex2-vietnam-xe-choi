@@ -1,10 +1,10 @@
 {
-  "versionCode": 84,
+  "versionCode": 85,
   "versionName": "v1.3.3",
-  "patch": 1,
-  "releaseDate": "08/10/2026",
+  "patch": 2,
+  "releaseDate": "09/10/2026",
   "sizeMb": "38.1 MB",
-  "changelog": "• Cập nhật kho app: tải qua máy chủ riêng, ổn định hơn\n• Cập nhật cách nhận bản mới của app\n• Cập nhật màn kích hoạt: báo rõ khi key hết hạn hoặc bị khóa",
+  "changelog": "• Cập nhật Kho app: hiện phiên bản đang cài và phiên bản trên kho",
   "isMandatory": true,
   "downloadUrl": "https://github.com/liemnguyen2107-coder/geely-ex2-vietnam-xe-choi/releases/download/v1.3.3/EX2VNControl_v1.3.3.apk"
 }
