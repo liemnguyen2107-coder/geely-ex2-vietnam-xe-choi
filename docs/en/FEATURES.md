@@ -4,7 +4,7 @@
 
 ---
 
-The list below comes straight from the app's feature catalog (`PaidFeatureCatalog`), version **1.3.2**.
+The list below comes straight from the app's feature catalog (`PaidFeatureCatalog`), version **1.3.4**.
 
 ### 🚘 Vehicle control
 
@@ -17,7 +17,7 @@ The list below comes straight from the app's feature catalog (`PaidFeatureCatalo
 - Digital temperature shown on the car's climate bar
 - Tyre pressure (TPMS) display
 - Mute and change the pedestrian warning sound (AVAS)
-- Car wash mode, app cleaner, auto-launch apps at start-up
+- Car wash mode, auto-launch apps at start-up
 
 ### 🔋 Energy and trips
 
@@ -56,7 +56,6 @@ The list below comes straight from the app's feature catalog (`PaidFeatureCatalo
 - **App Store** to install apps directly on the car, with a Vietnamese voice guide
 - Hide helper apps from the car's app drawer; keep EX2 VN Control, Trips, microG, entertainment and navigation apps
 - Auto-connect to Wi‑Fi
-- Close apps when the screen locks to save resources
 - Keep apps from being killed by the car when they go to the background
 - **OTA:** receive new versions directly on the car
 

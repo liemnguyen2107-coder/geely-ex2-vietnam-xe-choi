@@ -6,7 +6,7 @@
 
 ## ✨ Tính năng đang chạy
 
-Danh sách dưới đây lấy trực tiếp từ danh mục tính năng trong app (`PaidFeatureCatalog`), phiên bản **1.3.2**.
+Danh sách dưới đây lấy trực tiếp từ danh mục tính năng trong app (`PaidFeatureCatalog`), phiên bản **1.3.4**.
 
 ### 🚘 Điều khiển xe
 
@@ -19,7 +19,7 @@ Danh sách dưới đây lấy trực tiếp từ danh mục tính năng trong a
 - Nhiệt độ số hiển thị trên thanh điều hòa của xe
 - Hiển thị áp suất lốp (TPMS)
 - Tắt tiếng và đổi tiếng cảnh báo người đi bộ (AVAS)
-- Rửa xe, dọn app, mở app tự động lúc nổ máy
+- Rửa xe, mở app tự động lúc nổ máy
 
 ### 🔋 Năng lượng và hành trình
 
@@ -58,7 +58,6 @@ Danh sách dưới đây lấy trực tiếp từ danh mục tính năng trong a
 - **Kho app** cài thẳng lên xe, có giọng đọc tiếng Việt
 - Ẩn các app hỗ trợ khỏi ngăn app của xe; giữ lại EX2 VN Control, Hành trình, microG, giải trí và chỉ đường
 - Tự bắt Wi‑Fi
-- Tắt app khi khóa màn để tiết kiệm tài nguyên
 - Giữ app không bị xe tự tắt khi thu xuống nền
 - **OTA:** nhận bản mới trực tiếp trên xe
 
