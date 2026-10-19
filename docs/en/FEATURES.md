@@ -4,7 +4,7 @@
 
 ---
 
-The list below comes straight from the app's feature catalog (`PaidFeatureCatalog`), version **1.3.4**.
+The list below comes straight from the app's feature catalog (`PaidFeatureCatalog`), version **1.3.5**.
 
 ### 🚘 Vehicle control
 
@@ -17,6 +17,7 @@ The list below comes straight from the app's feature catalog (`PaidFeatureCatalo
 - Digital temperature shown on the car's climate bar
 - Tyre pressure (TPMS) display
 - Mute and change the pedestrian warning sound (AVAS)
+- Turn off automatic emergency braking (AEB), remembered at every start-up *(Max version only)*
 - Car wash mode, auto-launch apps at start-up
 
 ### 🔋 Energy and trips

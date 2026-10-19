@@ -6,7 +6,7 @@
 
 ## ✨ Tính năng đang chạy
 
-Danh sách dưới đây lấy trực tiếp từ danh mục tính năng trong app (`PaidFeatureCatalog`), phiên bản **1.3.4**.
+Danh sách dưới đây lấy trực tiếp từ danh mục tính năng trong app (`PaidFeatureCatalog`), phiên bản **1.3.5**.
 
 ### 🚘 Điều khiển xe
 
@@ -19,6 +19,7 @@ Danh sách dưới đây lấy trực tiếp từ danh mục tính năng trong a
 - Nhiệt độ số hiển thị trên thanh điều hòa của xe
 - Hiển thị áp suất lốp (TPMS)
 - Tắt tiếng và đổi tiếng cảnh báo người đi bộ (AVAS)
+- Tắt phanh tự động AEB, nhớ mỗi lần nổ máy *(chỉ bản Max)*
 - Rửa xe, mở app tự động lúc nổ máy
 
 ### 🔋 Năng lượng và hành trình
